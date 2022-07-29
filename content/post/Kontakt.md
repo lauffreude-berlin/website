@@ -2,6 +2,7 @@
 title: "Kontakt"
 date: 2022-07-28T12:02:56+02:00
 draft: false
+weight: 13
 ---
 
 # Kontakt & Anmeldung & Rückfragen

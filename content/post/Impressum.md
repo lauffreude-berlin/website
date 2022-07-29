@@ -1,10 +1,11 @@
 ---
-title: "Impressum"
+title: "Impressum & Datenschutz & Allgemeine Geschäftsbedingungen"
 date: 2022-07-28T12:02:56+02:00
 draft: false
+weight: 15
 ---
 
-# Impressum
+# Impressum & Datenschutz & Allgemeine Geschäftsbedingungen
 
 Angaben gemäß § 5 des TMG, inhaltlich Verantwortliche im Sinne des Telemediengesetzes: Dr. Erdmute Nieke
 
@@ -59,8 +60,8 @@ Jede Teilnehmer:in hat selbst die Verantwortung für sein/ihr persönliches Wohl
 ## Internetauftritt
 Inhalt: Dr. Erdmute Nieke
 
-Konzeption und Gestaltung: Dr. Erdmute Nieke
+Konzeption und Gestaltung: Dr. Erdmute Nieke, Dr. Thomas Fricke
 
 Logo: Layout: pixxart.de, Licence: Freepik/Katemangostar
 
-Bilder: ???
+Bilder: Yvonne Zimmermann, Dr. Erdmute Nieke

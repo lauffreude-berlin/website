@@ -2,19 +2,19 @@
 title: "Aktuelle Termine"
 date: 2022-07-28T12:02:56+02:00
 draft: false
+weight: 12
+
 ---
 
 # Aktuelle Termine
 
-## Erinnerungsläufe 
-
-Mittwoch, 9. November 2022 – Jüdisches Leben in Berlin-Charlottenburg – gestern und heute (Startzeit und -ort folgen)
 
 ## Lauftherapie – Aktuelle Kurse 
 
 __Uhrzeit__
 
 Grundkurs: 17.30 Uhr bis 18.30 Uhr
+
 Aufbaukurs: 18.30 Uhr bis 19.30 Uhr
 
 __16 Termine in 8 Wochen + ein Probetraining__
@@ -91,3 +91,8 @@ __Treffpunkt__
 
 Badestelle (Tivoli), Sandhauser Str. 59, 13505 Berlin-Heiligensee
 BVG: Bus 324 bis Haltestelle Rallenweg 
+
+
+## Erinnerungsläufe 
+
+Mittwoch, 9. November 2022 – Jüdisches Leben in Berlin-Charlottenburg – gestern und heute (Startzeit und -ort folgen)

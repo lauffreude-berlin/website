@@ -2,6 +2,8 @@
 title: "Lauftherapie"
 date: 2022-07-28T12:02:56+02:00
 draft: false
+weight: 2
+
 ---
 
 # Lauftherapie
@@ -38,3 +40,6 @@ Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils ein
 ## Kosten der Lauftherapie
 
 120 € für einen Kurs. Nicht wahr genommene Termine werden nicht erstattet. Preisnachlass aus sozialen Gründen kann persönlich angefragt werden. Diskretion darüber ist selbstverständlich.
+
+![erdmutenieke](/Sonne.jpg)
+

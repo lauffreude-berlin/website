@@ -2,9 +2,12 @@
 title: "Zur Person"
 date: 2022-07-28T12:02:56+02:00
 draft: false
+weight: 10
+
 ---
 
 # Zur Person
+
 
 
 # Dr. Erdmute Nieke, Jg. 1970
@@ -25,3 +28,5 @@ draft: false
 
 
 
+
+![erdmutenieke](/porträt.jpg)

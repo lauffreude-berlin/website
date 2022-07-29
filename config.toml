@@ -1,0 +1,11 @@
+baseURL = 'http://lauffreude.berlin/'
+languageCode = 'de-de'
+title = 'Lauffreude Berlin'
+theme = 'hugo-theme-cleanwhite'
+
+[params]
+  header_image = "Runners 5-Logo mit Hintergrund.png"
+  # Sidebar settings
+  sidebar_about_description = "Laufen"
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar =  "Runners 5-Logo mit Hintergrund.png"     # use absolute URL, seeing it's used in both `/` and `/about/`
