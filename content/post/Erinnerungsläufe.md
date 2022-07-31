@@ -8,7 +8,7 @@ weight: 3
 
 # Erinnerungsläufe
 
-Berlin ist eine Stadt voller Erinnerungskultur. Geschichte(n), Denkmäler, spannende Menschen und Orte werden bei Erinnerungsläufen erlaufen, erkundet und erschlossen - die thematischen Stadttouren der anderen Art für Gäste und Berliner:innen!
+sind thematischen Stadttouren der anderen Art für Gäste und Berliner:innen! Berlin ist eine Stadt voller Erinnerungskultur. Geschichte(n), Denkmäler, spannende Menschen und Orte werden bei Erinnerungsläufen erlaufen, erkundet und erschlossen.
  
 Ein Erinnerungslauf führt an besondere Orte, an denen kurze Laufpausen eingelegt werden und ich Geschichte(n) von diesen Orten und auch über Menschen, die mit diesen Orten in Verbindung stehen, erzähle. Beim langsamen, gemeinsamen Laufen gibt es Gelegenheit über das Gehörte und Gesehene nachzudenken und darüber ins Gespräch zu kommen. Am Ende eines Laufes erhalten alle Teilnehmer:innen ein kleines Erinnerungsheft mit den wichtigsten Informationen über die Orte, Denkmäler und Menschen, die wir kennenlernen. 
 

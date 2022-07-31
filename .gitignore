@@ -1,1 +1,4 @@
 .hugo_build.lock
+archetypes
+content/test-section
+public
