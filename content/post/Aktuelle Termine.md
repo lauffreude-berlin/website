@@ -91,6 +91,15 @@ Badestelle (Tivoli), Sandhauser Str. 59, 13505 Berlin-Heiligensee,
 BVG: Bus 324 bis Haltestelle Rallenweg 
 
 
-## Nächster Erinnerungslauf 
+## Nächste Erinnerungsläufe 
 
-Mittwoch, 9. November 2022 – __Jüdisches Leben in Berlin-Charlottenburg – gestern und heute__ (Startzeit und -ort folgen)
+## Samstag, 17. September 2022
+
+__Stolpersteinlauf durch Berlin-Heiligensee__ - Start 13.30 Uhr an der Katholischen Kirche St. Marien Heiligensee, Schulzendorfer Str. 74-78, 13503 Berlin - eine Veranstaltung der Katholischen Gemeinde Heiligensee - kostenfrei, eine Spende wird erbeten - Streckenlänge 7,5 Kilometer - langsames Tempo, Teilnahme auf dem Fahrrad möglich - Im Anschluss an den Lauf gibt es Kaffee und Kuchen und noch weitere Gelegenheit für Gespräche im Gemeindehaus. - Anmeldung über Kontakt (s. u.)
+
+![erdmutenieke](/Stolperstein.jpg)
+
+
+## Mittwoch, 9. November 2022 
+
+__Jüdisches Leben in Berlin-Charlottenburg – gestern und heute__ (Startzeit und -ort und weitere Informationen folgen)

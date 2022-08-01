@@ -67,4 +67,4 @@ Konzeption und Gestaltung: Dr. Erdmute Nieke, Dr. Thomas Fricke
 
 Logo: Layout: pixxart.de, Licence: Freepik/Katemangostar
 
-Bilder: Yvonne Zimmermann, Dr. Erdmute Nieke
+Bilder: Bernd Hübner, Dr. Erdmute Nieke, Yvonne Zimmermann
