@@ -51,6 +51,10 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. Novem
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Teilnahmegebühr von 20 Euro pro Person erhoben.
 
+## Die nächsten Erinnerungsläufe finden am Samstag, 17. September 2022 und am Mittwoch, 9. November 2022 statt. 
+
+Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+
 ![erdmutenieke](/Hannah.jpg)
 
 

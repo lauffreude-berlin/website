@@ -41,5 +41,9 @@ Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils ein
 
 120 € für einen Kurs. Nicht wahr genommene Termine werden nicht erstattet. Preisnachlass aus sozialen Gründen kann persönlich angefragt werden. Diskretion darüber ist selbstverständlich.
 
+## Die nächsten Kurse starten am 25. August 2022. 
+
+Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+
 ![erdmutenieke](/Sonne.jpg)
 
