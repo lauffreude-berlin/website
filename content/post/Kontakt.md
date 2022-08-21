@@ -9,7 +9,7 @@ weight: 13
 
 __Dr. Erdmute Nieke__
 
-__Telefon__ 01520 90 35 603 (mit Anrufbeantworter – wenn Sie mir Ihre Kontaktdaten hinterlassen, rufe ich Sie gern zurück)
+__Telefon__ 01520 90 35 603 (mit Anrufbeantworter) Wenn Sie mir Ihre Kontaktdaten hinterlassen, rufe ich Sie gern zurück.
 
 __Email__ erdmute@lauffreude.berlin
 

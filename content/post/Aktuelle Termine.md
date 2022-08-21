@@ -9,11 +9,10 @@ weight: 12
 
 ## Lauftherapie – Aktuelle Kurse 
 
-__Uhrzeit__
+__Uhrzeit__ ACHTUNG!! NEUE Startzeiten
 
-__Grundkurs:__ 17.30 Uhr bis 18.30 Uhr
+__Grundkurs & Aufbaukurs:__ 18.00 Uhr bis 19.00 Uhr
 
-__Aufbaukurs:__ 18.30 Uhr bis 19.30 Uhr
 
 __16 Termine in 8 Wochen + ein Probetraining__
 
