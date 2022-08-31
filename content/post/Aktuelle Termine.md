@@ -9,12 +9,59 @@ weight: 12
 
 ## Lauftherapie – Aktuelle Kurse 
 
-__Uhrzeit__ ACHTUNG!! NEUE Startzeiten
+__Uhrzeit__ 
 
 __Grundkurs & Aufbaukurs:__ 18.00 Uhr bis 19.00 Uhr
 
 
 __16 Termine in 8 Wochen + ein Probetraining__
+
+## Kurs: Novemberstimmung & Adventslicht
+
+Laufkurs im Dunkeln an den Wassergräben von Heiligensee 
+ 
+Probetraining: Do 03.11.2022
+
+1. Termin: Mo 07.11.2022
+
+2. Termin: Do 10.11.2022
+
+3. Termin: Mo 14.11.2022
+
+4. Termin: Do 17.11.2022
+
+5. Termin: Mo 21.11.2022
+
+6. Termin: Do 24.11.2022
+
+7. Termin: Mo 28.11.2022
+
+8. Termin: Do 01.12.2022
+
+9. Termin: Mo 05.12.2022
+
+10. Termin: Do 08.12.2022
+
+11. Termin: Mo 12.12.2022
+
+12. Termin: Do 15.12.2022
+
+13. Termin: Mo 19.12.2022
+
+14. Termin: Do 22.12.2022
+
+15. Termin: Di 27.12.2022 (Mo Feiertag)
+
+16. Termin: Do 29.12.2022
+
+
+__Treffpunkt__
+
+Albrecht-Haushofer-Schule, Kurzebracker Weg 40, 13505 Berlin, 
+BVG: Bus 124 bis Haltestelle Kurzebracker Weg
+
+## Herbstkurs (läuft - nicht mehr buchbar)
+
 
 Probetraining Do 25.08.2022 
 
@@ -86,7 +133,7 @@ Do
 
 __Treffpunkt__
 
-Badestelle (Tivoli), Sandhauser Str. 59, 13505 Berlin-Heiligensee,
+NEU: Waldspielplatz Rallenweg, 13505 Berlin-Heiligensee,
 BVG: Bus 324 bis Haltestelle Rallenweg 
 
 
