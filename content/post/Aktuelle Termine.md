@@ -57,7 +57,7 @@ Probetraining: Do 03.11.2022
 
 __Treffpunkt__
 
-Albrecht-Haushofer-Schule, Kurzebracker Weg 40, 13505 Berlin, 
+Albrecht-Haushofer-Schule, Kurzebracker Weg 40, 13503 Berlin, 
 BVG: Bus 124 bis Haltestelle Kurzebracker Weg
 
 ## Herbstkurs (läuft - nicht mehr buchbar)
@@ -133,7 +133,7 @@ Do
 
 __Treffpunkt__
 
-NEU: Waldspielplatz Rallenweg, 13505 Berlin-Heiligensee,
+NEU: Waldspielplatz Rallenweg, 13503 Berlin-Heiligensee,
 BVG: Bus 324 bis Haltestelle Rallenweg 
 
 
