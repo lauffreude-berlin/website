@@ -145,6 +145,12 @@ __Stolpersteinlauf durch Berlin-Heiligensee__ - Start 13.30 Uhr an der Katholisc
 
 ![erdmutenieke](/Stolperstein.jpg)
 
+## Freitag, 7. Oktober 2021
+
+__Lichterlauf durch Berlin-Mitte zum Festival of Lights und Berlin leuchtet!__ - Start 18.30 Uhr an der ehemalige Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) - Streckenlänge ca. 12 km – Bitte leuchtende und reflektierende Laufkleidung tragen. - Mund- und Nasen-Bedeckung für den Fall, dass es an den Highlights sehr voll ist. - BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) - Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner mit vielen Pausen zum Staunen und Fotografieren. - Nachverpflegung ca. 21.30 Uhr kleine Überraschung - Wechselkleidung kann in ein Auto am Start eingeschlossen werden. - kostenfrei - Anmeldung über Kontakt (s.u.)
+
+![erdmutenieke](/Brandenburger.jpg)
+
 
 ## Mittwoch, 9. November 2022 
 
