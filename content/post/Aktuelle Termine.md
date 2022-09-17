@@ -139,12 +139,6 @@ BVG: Bus 324 bis Haltestelle Rallenweg
 
 ## Nächste Erinnerungsläufe 
 
-## Samstag, 17. September 2022
-
-__Stolpersteinlauf durch Berlin-Heiligensee__ - Start 13.30 Uhr an der Katholischen Kirche St. Marien Heiligensee, Schulzendorfer Str. 74-78, 13503 Berlin - eine Veranstaltung der Katholischen Gemeinde Heiligensee - kostenfrei, eine Spende wird erbeten - Streckenlänge 7,5 Kilometer - langsames Tempo, Teilnahme auf dem Fahrrad möglich - Im Anschluss an den Lauf gibt es Kaffee und Kuchen und noch weitere Gelegenheit für Gespräche im Gemeindehaus. - Anmeldung über Kontakt (s. u.)
-
-![erdmutenieke](/Stolperstein.jpg)
-
 ## Freitag, 7. Oktober 2021
 
 __Lichterlauf durch Berlin-Mitte zum Festival of Lights und Berlin leuchtet!__ - Start 18.30 Uhr an der ehemalige Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) - Streckenlänge ca. 12 km – Bitte leuchtende und reflektierende Laufkleidung tragen. - Mund- und Nasen-Bedeckung für den Fall, dass es an den Highlights sehr voll ist. - BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) - Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner mit vielen Pausen zum Staunen und Fotografieren. - Nachverpflegung ca. 21.30 Uhr kleine Überraschung - Wechselkleidung kann in ein Auto am Start eingeschlossen werden. - kostenfrei - Anmeldung über Kontakt (s.u.)
