@@ -33,7 +33,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Jüdisches Leben__ in der Berliner Mitte – gestern und heute 
 
-* __Jüdisches Leben__ in Berlin-Charlottenburg – gestern und heute
+* __Acht Synagogen auf 13 Kilometern - Jüdisches Leben__ in Berlin-Charlottenburg – gestern und heute
 
 * Geschichte des jüdisches Lebens in Spandau 
 
@@ -49,7 +49,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. Novem
 
 ## Kosten Erinnerungsläufe
 
-Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Teilnahmegebühr von 20 Euro pro Person erhoben.
+Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Teilnahmegebühr von 20 Euro pro Person erhoben bzw. eine Spende erbeten.
 
 ## Die nächsten Erinnerungsläufe finden am Freitag, 7. Oktober 2022 und am Mittwoch, 9. November 2022 statt. 
 

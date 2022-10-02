@@ -148,4 +148,8 @@ __Lichterlauf durch Berlin-Mitte zum Festival of Lights und Berlin leuchtet!__ -
 
 ## Mittwoch, 9. November 2022 
 
-__Jüdisches Leben in Berlin-Charlottenburg – gestern und heute__ (Startzeit und -ort und weitere Informationen folgen)
+__Acht Synagogen auf 13 Kilometern! Jüdisches Leben in Berlin-Charlottenburg – gestern und heute -
+im Gedenken an die Reichspogromnacht von 9. November 1938__
+
+Start 18 Uhr an der ehemaligen Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) – 
+Streckenlänge ca. 13 km durch Charlottenburg  – Bitte leuchtende und reflektierende Laufkleidung tragen. – BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) – Wir laufen als Gruppe gemeinsam dem LT Bernd Hübner mit acht Pausen an acht Synagogen. – Nachverpflegung ca. 21 Uhr mit einem kleinen Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über Kontakt (s.u.)
