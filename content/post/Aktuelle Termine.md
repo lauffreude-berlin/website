@@ -139,12 +139,6 @@ BVG: Bus 324 bis Haltestelle Rallenweg
 
 ## Nächste Erinnerungsläufe 
 
-## Freitag, 7. Oktober 2021
-
-__Lichterlauf durch Berlin-Mitte zum Festival of Lights und Berlin leuchtet!__ - Start 18.30 Uhr an der ehemalige Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) - Streckenlänge ca. 12 km – Bitte leuchtende und reflektierende Laufkleidung tragen. - Mund- und Nasen-Bedeckung für den Fall, dass es an den Highlights sehr voll ist. - BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) - Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner mit vielen Pausen zum Staunen und Fotografieren. - Nachverpflegung ca. 21.30 Uhr kleine Überraschung - Wechselkleidung kann in ein Auto am Start eingeschlossen werden. - kostenfrei - Anmeldung über Kontakt (s.u.)
-
-![erdmutenieke](/Brandenburger.jpg)
-
 
 ## Mittwoch, 9. November 2022 
 
@@ -152,9 +146,17 @@ __Acht Synagogen auf 13 Kilometern! Jüdisches Leben in Berlin-Charlottenburg - 
 im Gedenken an die Reichspogromnacht von 9. November 1938__
 
 Start 18 Uhr an der ehemaligen Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) – 
-Streckenlänge ca. 13 km durch Charlottenburg  – Bitte leuchtende und reflektierende Laufkleidung tragen. – BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) – Wir laufen als Gruppe gemeinsam dem LT Bernd Hübner mit acht Pausen an acht Synagogen. – Nachverpflegung ca. 21 Uhr mit einem kleinen Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über Kontakt (s.u.)
+Streckenlänge ca. 13 km durch Charlottenburg – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Bitte leuchtende und reflektierende Laufkleidung tragen. – BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) mit acht Pausen an acht Synagogen – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung ca. 21 Uhr mit einem kleinen Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über Kontakt (s.u.)
 
 ![erdmutenieke](/Synagoge.jpg)
+Foto: Erinnerungsort Synagoge Levetzowstraße 7
+
+## Mittwoch, 8. März 2023
+
+__Frauentagslauf für alle Geschlechter__ - weitere Infos folgen
 
 
+## Karfreitag, 7. April 2023
+
+__Karfreitagslauf__ - weitere Infos folgen
 
