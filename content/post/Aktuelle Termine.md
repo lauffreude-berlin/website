@@ -60,82 +60,6 @@ __Treffpunkt__
 Albrecht-Haushofer-Schule, Kurzebracker Weg 40, 13503 Berlin, 
 BVG: Bus 124 bis Haltestelle Kurzebracker Weg
 
-## Herbstkurs (läuft - nicht mehr buchbar)
-
-
-Probetraining Do 25.08.2022 
-
-1. Termin: 
-Mo 
-29.08.2022
-
-2. Termin:
-Do 
-01.09.2022
-
-3. Termin:
-Mo
-05.09.2022
-
-4. Termin:
-Do
-08.09.2022
-
-5. Termin:
-Mo
-12.09.2022
-
-6. Termin:
-Do
-15.09.2022
-
-7. Termin:
-Mo
-19.09.2022
-
-8. Termin:
-Do
-22.09.2022
-
-9. Termin:
-Mo
-26.09.2022
-
-10. Termin:
-Do 
-29.09.2022
-
-11. Termin:
-Di
-04.10.2022
-(Mo 03.10. Feiertag)
-
-12. Termin:
-Do 
-06.10.2022
-
-13. Termin:
-Mo
-10.10.2022
-
-14. Termin:
-Do
-13.10.2022
-
-15. Termin:
-Mo
-17.10.2022
-
-16. Termin:
-Do
-20.10.2022
-
-
-__Treffpunkt__
-
-NEU: Waldspielplatz Rallenweg, 13503 Berlin-Heiligensee,
-BVG: Bus 324 bis Haltestelle Rallenweg 
-
 
 ## Nächste Erinnerungsläufe 
 
@@ -143,10 +67,10 @@ BVG: Bus 324 bis Haltestelle Rallenweg
 ## Mittwoch, 9. November 2022 
 
 __Acht Synagogen auf 13 Kilometern! Jüdisches Leben in Berlin-Charlottenburg - gestern und heute - 
-im Gedenken an die Reichspogromnacht von 9. November 1938__
+im Gedenken an die Reichspogromnacht vom 9. November 1938__
 
 Start 18 Uhr an der ehemaligen Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) – 
-Streckenlänge ca. 13 km durch Charlottenburg – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Bitte leuchtende und reflektierende Laufkleidung tragen. – BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo ca. 6:45 min/km (netto) mit acht Pausen an acht Synagogen – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung ca. 21 Uhr mit einem kleinen Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über Kontakt (s.u.)
+Streckenlänge ca. 13 km durch Charlottenburg – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Bitte leuchtende und reflektierende Laufkleidung tragen. – BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo max. 6:45 min/km (netto) mit acht Pausen an acht Synagogen – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung ca. 21 Uhr mit einem kleinen Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über Kontakt (s.u.)
 
 ![erdmutenieke](/Synagoge.jpg)
 Foto: Erinnerungsort Synagoge Levetzowstraße 7
