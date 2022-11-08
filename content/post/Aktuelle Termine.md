@@ -22,7 +22,7 @@ Laufkurs im Dunkeln an den Wassergräben von Heiligensee
  
 Probetraining: Do 03.11.2022
 
-1. Termin: Mo 07.11.2022
+1. Termin: Mo 07.11.2022 __Start verschiebt sich krankheitsbedingt__
 
 2. Termin: Do 10.11.2022
 
@@ -64,7 +64,7 @@ BVG: Bus 124 bis Haltestelle Kurzebracker Weg
 ## Nächste Erinnerungsläufe 
 
 
-## Mittwoch, 9. November 2022 
+## Mittwoch, 9. November 2022 -- Achtung, wird krankheitsbedingt verschoben!
 
 __Acht Synagogen auf 13 Kilometern! Jüdisches Leben in Berlin-Charlottenburg - gestern und heute - 
 im Gedenken an die Reichspogromnacht vom 9. November 1938__
