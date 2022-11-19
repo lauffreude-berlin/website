@@ -51,7 +51,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. Novem
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Teilnahmegebühr von 20 Euro pro Person erhoben bzw. eine Spende erbeten.
 
-## Die nächsten Erinnerungsläufe finden am Mittwoch, 9. November -- 2022 ACHTUNG wird krankheitsbedingt verschoben -- , am Mittwoch, 8. März 2023 und am Karfreitag, 7. April 2023 statt.
+## Die nächsten Erinnerungsläufe finden am Freitag, 27. Januar 2023, am Mittwoch, 8. März 2023 und am Karfreitag, 7. April 2023 statt.
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
