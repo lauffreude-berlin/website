@@ -9,16 +9,17 @@ weight: 12
 
 ## Lauftherapie – Aktuelle Kurse 
 
-__Uhrzeit__ 
-
-__Grundkurs & Aufbaukurs:__ 18.00 Uhr bis 19.00 Uhr
-
-
 __16 Termine in 8 Wochen + ein Probetraining__
 
-## Kurs: Novemberstimmung & Adventslicht & neues Jahr
+__Uhrzeit__ 18.00 Uhr bis 19.00 Uhr
 
-Laufkurs im Dunkeln an den Wassergräben von Heiligensee 
+__Treffpunkt__ Seniorentreff, Alt-Heiligensee 39, 13503 Berlin
+
+__BVG__ Bus 124/133/324 bis Haltestelle Alt-Heiligensee
+
+## Kurs: Novemberstimmung & Adventslicht & neues Jahr (läuft - nicht mehr buchbar)
+
+__Laufkurs im Dunkeln an den Wassergräben von Heiligensee__
  
 Probetraining: Do 03.11.2022
 
@@ -42,7 +43,7 @@ Probetraining: Do 03.11.2022
 
 10. Termin: Do 22.12.2022
 
-11. Termin: Di 27.12.2022 (Mo Feiertag)
+11. Termin: Di 27.12.2022 (Mo Zweiter Weihnachtsfeiertag)
 
 12. Termin: Do 29.12.2022
 
@@ -54,11 +55,43 @@ Probetraining: Do 03.11.2022
 
 16. Termin: Do 12.01.2023
 
+## Kurs: Neues Jahr & Neue Vorsätze
 
-__Treffpunkt__
+__Laufkurs in den Frühling__
+ 
+Probetraining: Do 09.02.2023
 
-Seniorentreff, Alt-Heiligensee 39, 13503 Berlin, 
-BVG: Bus 124/133/324 bis Haltestelle Alt-Heiligensee
+1. Termin: Mo 13.02.2023
+
+2. Termin: Do 16.02.2023
+
+3. Termin: Mo 20.02.2023 (Rosenmontag)
+
+4. Termin: Do 23.02.2023
+
+5. Termin: Mo 27.02.2023
+
+6. Termin: Do 02.03.2023
+
+7. Termin: Mo 06.03.2023
+
+8. Termin: Do 09.03.2023
+
+9. Termin: Mo 13.03.2023
+
+10. Termin: Do 16.03.2023
+
+11. Termin: Mo 20.03.2023 (Frühlingsanfang)
+
+12. Termin: Do 23.03.2023
+
+13. Termin: Mo 27.03.2023
+
+14. Termin: Do 30.03.2023
+
+15. Termin: Mo 03.04.2023
+
+16. Termin: Do 06.04.2023 (Gründonnerstag)
 
 
 ## Nächste Erinnerungsläufe 

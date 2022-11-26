@@ -34,14 +34,14 @@ Noch-Nicht-Läufer:innen, die sich in einer kleinen Gruppe in der Natur bewegen 
 
 ## Ablauf der Lauftherapie
 
-Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen – Gehen und Laufen im Wechsel – Dehnübungen. Die Strecke führt durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen. Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter Kontakt & Anmeldung & Rückfragen).
+Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen – Gehen und Laufen im Wechsel – Dehnübungen. Die Strecke führt je nach Helligkeit entweder durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen oder an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter [Kontakt]({{< ref "Kontakt.md" >}})).
 
 
 ## Kosten der Lauftherapie
 
 120 € für einen Kurs. Nicht wahr genommene Termine werden nicht erstattet. Preisnachlass aus sozialen Gründen kann persönlich angefragt werden. Diskretion darüber ist selbstverständlich.
 
-## Die nächsten Kurse starten am 3. November 2022. 
+## Der nächste Kurs startet am 9. Februar 2023. 
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
