@@ -26,6 +26,8 @@ weight: 10
       
 * Lauftherapeutin (Weiterbildung 2021/22 Multimodale Lauftherapie – MML – an der Hochschule für angewandte Wissenschaft und Kunst Hildesheim)
 
+* Yoga-Trainerin, Qualifikationslevel 2 (Weiterbildung 2022 Akademie für Sport und Gesundheit)
+
 
 
 
