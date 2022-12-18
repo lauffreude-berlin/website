@@ -21,6 +21,8 @@ Noch-Nicht-Läufer:innen, die sich in einer kleinen Gruppe in der Natur bewegen 
 
 * Gesundheitliche Prävention
 
+* Stärkung des Immunsystems
+
 * Gewichtsreduzierung bei Übergewicht
 
 * Verbesserung der Blutzuckerwerte bei Diabetes
@@ -34,7 +36,7 @@ Noch-Nicht-Läufer:innen, die sich in einer kleinen Gruppe in der Natur bewegen 
 
 ## Ablauf der Lauftherapie
 
-Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen – Gehen und Laufen im Wechsel – Dehnübungen. Die Strecke führt je nach Helligkeit entweder durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen oder an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter [Kontakt]({{< ref "Kontakt.md" >}})).
+Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen zur Mobilisation – Gehen und Laufen im Wechsel – Dehnübungen mit einzelnen und einfachen Yogapositionen. Die Strecke führt je nach Helligkeit entweder durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen oder an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter [Kontakt]({{< ref "Kontakt.md" >}})).
 
 
 ## Kosten der Lauftherapie
