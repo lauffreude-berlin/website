@@ -22,7 +22,7 @@ weight: 10
       
 * Läuferin (seit 2010 nach einer Diabetes-Typ-II-Diagnose)
       
-* regelmäßige Teilnahme an der Ersten-Hilfe-Ausbildung für Ersthelfende (zuletzt 2021) 
+* regelmäßige Teilnahme an der Ersten-Hilfe-Ausbildung für Ersthelfende (zuletzt Januar 2023) 
       
 * Lauftherapeutin (Weiterbildung 2021/22 Multimodale Lauftherapie – MML – an der Hochschule für angewandte Wissenschaft und Kunst Hildesheim)
 

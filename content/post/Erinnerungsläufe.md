@@ -17,7 +17,9 @@ Ein Erinnerungslauf ist für Einzelpersonen und kleine Gruppen geeignet. Die Str
 
 ## Themen Erinnerungsläufe
 
-Die Liste der möglichen Themen wird laufend erweitert. 
+Die Liste der möglichen Themen wird laufend erweitert.
+
+* Die Welt stürzte für mich zusammen. __Käthe-Kollwitz-Lauf__ durch Charlottenburg, Mitte und Prenzlauer Berg
 
 * Sag mir, wo die Blumen sind… __Marlene-Dietrich-Lauf__ durch Schöneberg und Friedenau
 
