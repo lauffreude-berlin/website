@@ -29,14 +29,13 @@ Noch-Nicht-Läufer:innen, die sich in einer kleinen Gruppe in der Natur bewegen 
 
 * Senkung der Blutdruckwerte bei Bluthochdruck
 
-* __Grundkurs:__ 20 Minuten ohne Pause beschwerdefrei Laufen können
-      
-* __Aufbaukurs:__ Fünf Kilometer ohne Pause beschwerdefrei Laufen können
-
-
 ## Ablauf der Lauftherapie
 
-Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen zur Mobilisation – Gehen und Laufen im Wechsel – Dehnübungen mit einzelnen und einfachen Yogapositionen. Die Strecke führt je nach Helligkeit entweder durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen oder an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter [Kontakt]({{< ref "Kontakt.md" >}})).
+Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen zur Mobilisation – Gehen und Laufen im Wechsel – Dehnübungen mit einzelnen und einfachen Yogapositionen. Die Strecke führt je nach Helligkeit entweder durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen oder an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. 
+
+__Nach 16 Trainingseinheiten ist es möglich, 20 Minuten ohne Pause beschwerdefrei zu laufen oder sogar fünf Kilometer ohne Beschwerden zu laufen.__ 
+
+Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter [Kontakt]({{< ref "Kontakt.md" >}})).
 
 
 ## Kosten der Lauftherapie
