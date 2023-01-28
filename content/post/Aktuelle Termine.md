@@ -59,18 +59,6 @@ Probetraining: Do 09.02.2023
 
 ## Nächste Erinnerungsläufe 
 
-
-## Freitag, 27. Januar 2023 
-
-__Acht Synagogen auf 13 Kilometern! Jüdisches Leben in Berlin-Charlottenburg - gestern und heute - 
-in Erinnerung an die Reichspogromnacht vom 9. November 1938 zum Holocaust-Gedenktag__
-
-Start 18 Uhr an der ehemaligen Giraffe (Klopstockstr. 2, 10557 Berlin-Charlottenburg) – 
-Streckenlänge ca. 13 km durch Charlottenburg – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Bitte leuchtende und reflektierende Laufkleidung tragen. – BVG S-Bf Tiergarten (S3, S5, S7 & S9) oder U-Bf Hansaplatz (U9) – Tempo max. 6:45 min/km (netto) mit acht Pausen an acht Synagogen – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung ca. 21 Uhr mit einem kleinen Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
-
-![erdmutenieke](/Synagoge.jpg)
-Foto: Erinnerungsort Synagoge Levetzowstraße 7
-
 ## Mittwoch, 8. März 2023
 
 __Frauentagslauf für alle Geschlechter__
