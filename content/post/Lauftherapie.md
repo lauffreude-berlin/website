@@ -31,7 +31,7 @@ Noch-Nicht-Läufer:innen, die sich in einer kleinen Gruppe in der Natur bewegen 
 
 ## Ablauf der Lauftherapie
 
-Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen zur Mobilisation – Gehen und Laufen im Wechsel – Dehnübungen mit einzelnen und einfachen Yogapositionen. Die Strecke führt je nach Helligkeit entweder durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen oder an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. 
+Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils eine Stunde zu festgelegten Terminen statt. Vor Beginn der 16 Trainingseinheiten findet ein kostenloses gemeinsames Probetraining statt. Jedes Training folgt einem festen Ablauf: Aufwärmübungen zur Mobilisation – Gehen und Laufen im Wechsel – Dehnübungen mit einzelnen und einfachen Yogapositionen. Die Strecke führt bei Helligkeit durch den Tegeler Forst auf breiten, relativ ebenen und ruhigen Waldwegen, oder im Dunkeln an den Wassergräben von Heiligensee auf ruhigen, parkähnlichen Wegen entlang. Beim Training in Dunkelheit werden Brustgurte mit einem Lauflicht zur Verfügung gestellt. Die Streckenlänge steigert sich von ca. drei Kilometern beim ersten Training auf maximal fünf Kilometer am Ende des Kurses. 
 
 __Nach 16 Trainingseinheiten ist es möglich, 20 Minuten ohne Pause beschwerdefrei zu laufen oder sogar fünf Kilometer ohne Beschwerden zu laufen.__ 
 
