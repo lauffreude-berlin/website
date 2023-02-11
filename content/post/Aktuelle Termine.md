@@ -54,7 +54,7 @@ Probetraining: Do 09.02.2023
 
 __Treffpunkt__ Spielplatz Rundhofer Pfad/Büsumer Pfad, 13503 Berlin
 
-__BVG__ Bus 133 bis Haltestelle Wessselburer Weg
+__BVG__ Bus 133 bis Haltestelle Wesselburer Weg
 
 
 
@@ -90,7 +90,7 @@ Probetraining: Do 20.04.2023
 
 13. Termin: Mo 05.06.2023
 
-14. Termin: __Mi__ 09.06.2023
+14. Termin: __Mi__ 07.06.2023
 
 15. Termin: Mo 12.06.2023
 
@@ -123,7 +123,7 @@ __Karfreitagslauf__
 
 __Tod und Leben! - Wenn wir die Geschichte vergessen, holt sie uns ein.__ 
 
-Passend zum Tag werden wir Orte erlaufen, an denen der Toten gedacht wird, an denen Menschen das Leben genommen wurde, aber auch Orte, an denen Menschen für das Leben kämpften und kämpfen u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof, ehemaliges Zellengefängnis Moabit, Mahnmahl Putlitzbrücke und RKI.
+Passend zum Tag werden wir Orte erlaufen, an denen der Toten gedacht wird, an denen Menschen das Leben genommen wurde, aber auch Orte, an denen Menschen für das Leben kämpften und kämpfen, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof, ehemaliges Zellengefängnis Moabit, Mahnmahl Putlitzbrücke und RKI.
 
 Start 9.30 Uhr Nordufer 10, 13353 Berlin-Moabit, Höhe Torfstraße, an den Bänken gegenüber der Gaststätte Deichgraf – Streckenlänge ca. 13  km durch Moabit und Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – BVG U9 Amrumer Straße (3 Minuten Fußweg) oder S+U Westhafen (5 Minuten Fußweg) – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Ärzte ohne Grenzen wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
