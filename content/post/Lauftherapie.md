@@ -42,7 +42,7 @@ Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Te
 
 120 € für einen Kurs. Nicht wahr genommene Termine werden nicht erstattet. Preisnachlass aus sozialen Gründen kann persönlich angefragt werden. Diskretion darüber ist selbstverständlich.
 
-## Der nächste Kurs startet am 9. Februar 2023. 
+## Der nächste Kurs startet am 20. April 2023. 
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 

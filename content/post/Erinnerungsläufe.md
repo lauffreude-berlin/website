@@ -25,11 +25,13 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Abermillionen Anschauungen… Leben und Werk der DADAistin __Hannah Höch__ – Lauf durch Tegel und Heiligensee
 
-* Acht Frauen und ein Mann – Lauf durch und um den Berliner Tiergarten
+* __Acht Frauen und ein Mann__ – Lauf durch und um den Berliner Tiergarten
 
 * Fünf starke Frauen im __Widerstand gegen den Nationalsozialismus__ – Lauf um den Tiergarten
 
 * Widerstandsgeschichten an und um die __Gedenkstätte Plötzensee__ durch Charlottenburg Nord
+
+* Tod und Leben! - __Wenn wir die Geschichte vergessen, holt sie uns ein.__ - Lauf durch Moabit und Mitte, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof und ehemaliges Zellengefängnis Moabit
 
 * Was ist passiert? __Stolperstein-Lauf__ durch Berlin-Heiligensee (oder auch durch andere Berliner Kieze)
 
@@ -39,9 +41,9 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Geschichte des jüdisches Lebens in Spandau 
 
-* __17. Juni 1953__ – Erinnerungen an historischen Orten
+* __17. Juni 1953__ – Erinnerungen an den Volksaufstand in der DDR an historischen Orten
 
-* Der Freiheitsbegriff und über 500 Jahre Reformationsgeschichte – Ein Lauf durch den Tiergarten
+* __Der Freiheitsbegriff__ und über 500 Jahre Reformationsgeschichte – Ein Lauf durch den Tiergarten
 
 
 ## Feste Termine für Erinnerungsläufe
