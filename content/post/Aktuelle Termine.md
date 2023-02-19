@@ -131,3 +131,15 @@ Start 9.30 Uhr Nordufer 10, 13353 Berlin-Moabit, Höhe Torfstraße, an den Bänk
 
 __70 Jahre Volksaufstand in der DDR__ - Erinnerungen an historischen Orten - weitere Infos folgen
 
+## Samstag, 15. April 2023
+
+__Erinnerungsradtour__
+
+__"Abermillionen Anschauungen - Hannah Höch und Heiligensee" durch Heiligensee und Tegel__
+
+Wir werden uns bei dieser Radtour an Hannah Höch (1. Nov. 1889 in Gotha – 31. Mai 1978 in Berlin-Heiligensee) erinnern. Die Malerin, Graphikerin und Collagekünstlerin der DADA-Bewegung lebte und arbeite seit 1939 in Heiligensee. Wir schauen sozusagen über ihren Gartenzaun und hören auch sie selbst noch.
+
+Start 13.30 Uhr Katholische Kirche St. Marien Heiligensee, Schulzendorfer Str. 74/78 - ca. 15 km über unbefestigte Kies- und Waldwege und wenig befahrene Nebenstraßen - Unterwegs gibt es drei kleine Pausen an ihrem Wohnhaus, an ihrem Grab und an ihrem Denkmal. - Wir fahren so langsam, dass alle mitkommen und wir als Gruppe radeln. - 
+Fahrradschloss nicht vergessen, wir werden vor dem Friedhof Heiligensee die Räder parken. - Im Anschluss an die Radtour gibt es Kaffee und Kuchen und noch weitere Gelegenheit für Bildbetrachtungen und Gespräche im Gemeindehaus der Katholischen Kirche in Heiligensee. - Eine Spende für die https://www.kinderhilfe-afghanistan.de/ wird erbeten. - Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+
+
