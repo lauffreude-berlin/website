@@ -12,7 +12,7 @@ sind thematischen Stadttouren der anderen Art für Gäste und Berliner:innen! Be
  
 Ein Erinnerungslauf führt an besondere Orte, an denen kurze Laufpausen eingelegt werden und ich Geschichte(n) von diesen Orten und auch über Menschen, die mit diesen Orten in Verbindung stehen, erzähle. Beim langsamen, gemeinsamen Laufen gibt es Gelegenheit über das Gehörte und Gesehene nachzudenken und darüber ins Gespräch zu kommen. Am Ende eines Laufes erhalten alle Teilnehmer:innen ein kleines Erinnerungsheft mit den wichtigsten Informationen über die Orte, Denkmäler und Menschen, die wir kennenlernen. 
 
-Ein Erinnerungslauf ist für Einzelpersonen und kleine Gruppen geeignet. Die Streckenlänge und das Tempo wird von mir an die Bedürfnisse und Fähigkeiten der laufenden Teilnehmer:innen angepasst. 
+Ein Erinnerungslauf ist für Einzelpersonen und kleine Gruppen geeignet. Ich gestalte für Sie einen ganz persönlichen Lauf, die Streckenlänge und das Tempo wird von mir an Ihre Bedürfnisse und Fähigkeiten angepasst. Sprechen Sie mich gern an: [Kontakt]({{< ref "Kontakt.md" >}})
 
 
 ## Themen Erinnerungsläufe
