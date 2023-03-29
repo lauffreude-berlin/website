@@ -64,7 +64,9 @@ __Laufkurs nach Ostern im Tegeler Forst__
  
 Probetraining: Do 20.04.2023
 
-1. Termin: Mo 24.04.2023
+__ACHTUNG: Bei diesem Kurs beginnen die Montagstermine jeweils erst um 19 Uhr!__
+
+1. Termin: Mo 24.04.2023 
 
 2. Termin: Do 27.04.2023
 
