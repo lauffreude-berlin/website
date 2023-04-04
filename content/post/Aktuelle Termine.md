@@ -14,50 +14,6 @@ __16 Termine in 8 Wochen + ein Probetraining__
 __Uhrzeit__ 18.00 Uhr bis 19.00 Uhr
 
 
-## Kurs: Neues Jahr & Neue Vorsätze (läuft - nicht mehr buchbar)
-
-__Laufkurs in den Frühling__
- 
-Probetraining: Do 09.02.2023
-
-1. Termin: Mo 13.02.2023
-
-2. Termin: Do 16.02.2023
-
-3. Termin: Mo 20.02.2023 (Rosenmontag)
-
-4. Termin: Do 23.02.2023
-
-5. Termin: Mo 27.02.2023
-
-6. Termin: Do 02.03.2023
-
-7. Termin: Mo 06.03.2023
-
-8. Termin: Do 09.03.2023
-
-9. Termin: Mo 13.03.2023
-
-10. Termin: Do 16.03.2023
-
-11. Termin: Mo 20.03.2023 (Frühlingsanfang)
-
-12. Termin: Do 23.03.2023
-
-13. Termin: Mo 27.03.2023
-
-14. Termin: Do 30.03.2023
-
-15. Termin: Mo 03.04.2023
-
-16. Termin: Do 06.04.2023 (Gründonnerstag)
-
-__Treffpunkt__ Spielplatz Rundhofer Pfad/Büsumer Pfad, 13503 Berlin
-
-__BVG__ Bus 133 bis Haltestelle Wesselburer Weg
-
-
-
 ## Kurs: Der Frühling ist schön!
 
 __Laufkurs nach Ostern im Tegeler Forst__
@@ -103,6 +59,9 @@ __Treffpunkt__ Waldspielplatz Rallenweg 4, 13505 Berlin-Heiligensee
 
 __BVG__ Bus 324 bis Haltestelle Rallenweg
 
+__Der Treffpunkt kann noch an die Wohnortnähe der Teilnehmer:innen angepasst werden.__
+
+Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 
 
@@ -116,9 +75,9 @@ __Karfreitagslauf__
 
 __Tod und Leben! - Wenn wir die Geschichte vergessen, holt sie uns ein.__ 
 
-Passend zum Tag werden wir Orte erlaufen, an denen der Toten gedacht wird, an denen Menschen das Leben genommen wurde, aber auch Orte, an denen Menschen für das Leben kämpften und kämpfen, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof, ehemaliges Zellengefängnis Moabit, Mahnmahl Putlitzbrücke und RKI.
+Passend zum Tag werden wir Orte erlaufen, an denen der Toten gedacht wird, an denen Menschen das Leben genommen wurde, aber auch Orte, an denen Menschen für das Leben kämpften, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof, ehemaliges Zellengefängnis Moabit, Mahnmahl Putlitzbrücke und RKI.
 
-Start 9.30 Uhr Nordufer 10, 13353 Berlin-Moabit, Höhe Torfstraße, an den Bänken gegenüber der Gaststätte Deichgraf – Streckenlänge ca. 13  km durch Moabit und Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – BVG U9 Amrumer Straße (3 Minuten Fußweg) oder S+U Westhafen (5 Minuten Fußweg) – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Ärzte ohne Grenzen wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+Start 9.30 Uhr Nordufer 10, 13353 Berlin-Moabit, Höhe Torfstraße, an den Bänken gegenüber der Gaststätte Deichgraf – BVG U9 Amrumer Straße (3 Minuten Fußweg) oder S+U Westhafen (5 Minuten Fußweg) – Streckenlänge ca. 12 km durch Moabit und Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Ärzte ohne Grenzen wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 ## Samstag, 17. Juni 2023
 

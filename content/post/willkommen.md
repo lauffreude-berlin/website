@@ -13,7 +13,7 @@ __Laufen kann Medizin und Lebensfreude sein – ganz gleich ob mit einer Laufthe
 
 Ich biete Ihnen verschiedene Formen des leistungsfreien Laufens an. Es ist nie zu spät mit dem Laufen zu beginnen. Beim gemeinsamen Laufen an der frischen Luft können Sie Freude empfinden, eine Stärkung des seelischen und körperlichen Wohlbefindens erfahren und präventiv für die eigene Gesundheit sorgen. 
 
-Wenn Ihnen die Angebote von __Lauffreude Berlin__ gefallen - freue mich von Ihnen zu hören - am Telefon oder per Mail! 
+Wenn Ihnen die Angebote von __Lauffreude Berlin__ gefallen - freue mich von Ihnen zu hören - am Telefon oder per Mail! Die Kontaktdaten finden Sie hier: [Kontakt]({{< ref "Kontakt.md" >}})
 
 Herzlich
 
