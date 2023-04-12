@@ -55,11 +55,9 @@ __ACHTUNG: Bei diesem Kurs beginnen die Montagstermine jeweils erst um 19 Uhr!__
 16. Termin: Do 15.06.2023
 
 
-__Treffpunkt__ Waldspielplatz Rallenweg 4, 13505 Berlin-Heiligensee
+__Treffpunkt__ Bushaltestelle Im Waldwinkel, Ruppiner Chausee 143, 13505 Berlin-Heiligensee
 
-__BVG__ Bus 324 bis Haltestelle Rallenweg
-
-__Der Treffpunkt kann noch an die Wohnortnähe der Teilnehmer:innen angepasst werden.__
+__BVG__ Bus 124 bis Haltestelle Im Waldwinkel
 
 Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
@@ -67,17 +65,6 @@ Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 ## Nächste Erinnerungsläufe 
 
-
-
-## Karfreitag, 7. April 2023
-
-__Karfreitagslauf__ 
-
-__Tod und Leben! - Wenn wir die Geschichte vergessen, holt sie uns ein.__ 
-
-Passend zum Tag werden wir Orte erlaufen, an denen der Toten gedacht wird, an denen Menschen das Leben genommen wurde, aber auch Orte, an denen Menschen für das Leben kämpften, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof, ehemaliges Zellengefängnis Moabit, Mahnmahl Putlitzbrücke und RKI.
-
-Start 9.30 Uhr Nordufer 10, 13353 Berlin-Moabit, Höhe Torfstraße, an den Bänken gegenüber der Gaststätte Deichgraf – BVG U9 Amrumer Straße (3 Minuten Fußweg) oder S+U Westhafen (5 Minuten Fußweg) – Streckenlänge ca. 12 km durch Moabit und Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für Ärzte ohne Grenzen wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 ## Samstag, 17. Juni 2023
 

@@ -55,9 +55,19 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. Novem
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Teilnahmegebühr von 20 Euro pro Person erhoben bzw. eine Spende erbeten.
 
-## Die nächsten Erinnerungsläufe finden am Karfreitag, 7. April 2023 und am Samstag, 17. Juni 2023 statt. Eine Erinnerungsradtour an Hannah Höch findet am 15. April 2023 statt.
+## Der nächste Erinnerungslauf findet am Samstag, 17. Juni 2023 statt. Eine Erinnerungsradtour an Hannah Höch findet am 15. April 2023 statt.
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+
+## Stimmen von Teilnehmer:innen zum Erinnerungslauf am Karfreitag
+
+Das ist wahnsinnige Herzenskompetenz gepaart mit Köpfchen. - Marita Warner
+
+Danke für den schönen Lauf. Wirklich wieder ein absolutes Erlebnis mitten in der Welt, die wir eigentlich schon kennen. - Lilli E.
+
+Was ich besonders toll fand, war, dass du Bilder von den Akteur:innen hattest, die Geschichte geschrieben haben! Zusammen mit den Bildern und dem Stehen an ihren Gräbern hatte ich das Gefühl, ihnen ganz nah sein zu können. So sollte Geschichtsunterricht sein. Eine richtige Zeitreise! Super schön und eindrücklich, viele waren so jung als sie starben... Günter Litfin war 24 als er starb, ein Jahr älter als ich... Cato Bontjes van Beek war 23 bei der Hinrichtung... es ist kaum vorstellbar! So alt, wie ich!! Sehr beeindruckend, diese Menschen... ich frage mich immer, ob ich auch so mutig gewesen wäre... und den Tod riskiert hätte! Umso schöner, diese außergewöhnlichen Menschen zu ehren und alles dafür zu tun, dass wir aus der Geschichte lernen! - Maxi Birkhold
+
+
 
 ![erdmutenieke](/Hannah.jpg)
 
