@@ -55,9 +55,8 @@ __ACHTUNG: Bei diesem Kurs beginnen die Montagstermine jeweils erst um 19 Uhr!__
 16. Termin: Do 15.06.2023
 
 
-__Treffpunkt__ Bushaltestelle Im Waldwinkel, Ruppiner Chausee 143, 13505 Berlin-Heiligensee
+__Treffpunkt__ An der Einfahrt Schullandheim Walter May, Elchdamm 121, 13505 Berlin-Heiligensee
 
-__BVG__ Bus 124 bis Haltestelle Im Waldwinkel
 
 Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
