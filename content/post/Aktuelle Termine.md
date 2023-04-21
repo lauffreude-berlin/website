@@ -11,7 +11,7 @@ weight: 12
 
 __16 Termine in 8 Wochen + ein Probetraining__
 
-__Uhrzeit__ 18.00 Uhr bis 19.00 Uhr
+__Uhrzeit__ 18.00 Uhr bis 19.00 Uhr (montags 18.30 Uhr bis 19.30 Uhr)
 
 
 ## Kurs: Der Frühling ist schön!
@@ -20,7 +20,7 @@ __Laufkurs nach Ostern im Tegeler Forst__
  
 Probetraining: Do 20.04.2023
 
-__ACHTUNG: Bei diesem Kurs beginnen die Montagstermine jeweils erst um 19 Uhr!__
+__ACHTUNG: Bei diesem Kurs beginnen die Montagstermine jeweils erst um 18.30 Uhr!__
 
 1. Termin: Mo 24.04.2023 
 
@@ -55,7 +55,7 @@ __ACHTUNG: Bei diesem Kurs beginnen die Montagstermine jeweils erst um 19 Uhr!__
 16. Termin: Do 15.06.2023
 
 
-__Treffpunkt__ An der Einfahrt Schullandheim Walter May, Elchdamm 121, 13505 Berlin-Heiligensee
+__Treffpunkt__ Bushaltestelle Im Waldwinkel, Bus 124, Ruppiner Chaussee 143, 13505 Berlin-Heiligensee
 
 
 Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
