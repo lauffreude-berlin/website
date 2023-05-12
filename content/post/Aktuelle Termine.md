@@ -113,11 +113,13 @@ __70 Jahre Volksaufstand in der DDR - Erinnerungen an historischen Orten__
 
 __Wir laufen die originale Strecke des Marsches der Bauarbeiter vom 16. Juni 1953 nach.__ 
 
-Start 9 Uhr Strausberger Platz, 10243 Berlin, am Ausgang U-Bahnhof – Streckenlänge ca. 12  km durch Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – BVG U5 Strausberger Platz – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für https://www.warner4girls.de/ wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+Start 9 Uhr Strausberger Platz, 10243 Berlin, am Ausgang U-Bahnhof – Streckenlänge ca. 14 km durch Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – BVG U5 Strausberger Platz – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für https://www.warner4girls.de/ wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
  
 ## Dienstag, 3. Oktober 2023
 
 __Moses Mendelssohn – Ein Erinnerungslauf__
 
-10 bis 13 Uhr - eine Veranstaltung von und mit https://crossroads-berlin.com/ - weitere Infos folgen
+10 bis 13 Uhr - eine Veranstaltung von und mit Crossroads Berlin
+
+Anmeldung nur unter https://crossroads-berlin.com/event/moses-mendelssohn-ein-erinnerungslauf/
 
