@@ -63,19 +63,26 @@ Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 ## Nächste Erinnerungsläufe 
 
 
-## Samstag, 17. Juni 2023
+## Mittwoch, 26. Juli 2023
 
-__70 Jahre Volksaufstand in der DDR - Erinnerungen an historischen Orten__
+__130. Geburtstag von George Grosz – ein LebensLAUF__
 
-__Wir laufen die originale Strecke des Marsches der Bauarbeiter vom 16. Juni 1953 nach.__ 
+__Am 26. Juli 1893 erblickt Georg Ehrenfried Gross in der Nähe des Gendarmenmarktes in Berlin-Mitte das Licht der Welt. Am 6. Juli 1959 stirbt er als George Grosz am Savignyplatz 5 in Charlottenburg im Haus seiner Schwiegereltern. Auf dem Weg zwischen Mitte und Charlottenburg werden wir versuchen die 65 Lebenjahre dieses deutsch-US-amerikanischen Malers, Grafikers, Karikaturisten und Kriegsgegners zu erlaufen und einige seiner Bilder zu betrachten.__ 
 
-Start 9 Uhr Strausberger Platz, 10243 Berlin, am Ausgang U-Bahnhof – Streckenlänge ca. 14 km durch Mitte – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – BVG U5 Strausberger Platz – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit acht Pausen zur Erinnerung  – Wir laufen als Gruppe gemeinsam mit dem LT Bernd Hübner. – Nachverpflegung mit kleinen Erinnerungsgeschenken – Wechselkleidung kann in ein Auto am Start eingeschlossen werden. – Eine Spende für https://www.warner4girls.de/ wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+Start 18 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
  
 ## Dienstag, 3. Oktober 2023
 
-__Moses Mendelssohn – Ein Erinnerungslauf__
+__Moses Mendelssohn – Stadtlauf zu Erinnerungsorten__
 
 10 bis 13 Uhr - eine Veranstaltung von und mit Crossroads Berlin
 
 Anmeldung nur unter https://crossroads-berlin.com/event/moses-mendelssohn-ein-erinnerungslauf/
+
+## Donnerstag, 9. November 2023
+
+__Spuren jüdischen Lebens in Spandau__
+
+Start 18 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+
 
