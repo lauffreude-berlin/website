@@ -58,7 +58,7 @@ Die bereitgestellten Informationen auf dieser Website wurden sorgfältig geprüf
 Die Tätigkeit als Lauftherapeutin ist nebenberuflich und freiberuflich und ist umsatzsteuerbefreit, durch die Inanspruchnahme der Kleinunternehmerregelung (§ 19 Abs. 1 UStG). 
 Kosten für gebuchte Termine, die von der Teilnehmer:in nicht wahr genommen werden, werden  nicht erstattet.
 Alle Laufstrecken sind mit Sorgfalt hinsichtlich Länge und Belag ausgewählt. Trotzdem kann es zu Unfällen und Verletzungen kommen. Für mögliche Verletzungen oder Unfälle, sowie Unfallfolgen, die vor, während oder nach dem Laufen entstehen, haftet jede:r Teilnehmer:in selbst. Die Lauftherapeutin, Dr. Erdmute Nieke, übernimmt keine Haftung.
-Jede Teilnehmer:in hat selbst die Verantwortung für sein/ihr persönliches Wohl. Ein ärztliches Attest kann vor Beginn der Laufangebote erbracht werden oder die Teilnehmer:in verzichtet wissentlich darauf.
+Jede Teilnehmer:in hat selbst die Verantwortung für sein/ihr persönliches Wohl. Ein ärztliches Attest kann vor Beginn der Lauftherapie erbracht werden oder die Teilnehmer:in verzichtet wissentlich darauf.
 
 ## Internetauftritt
 Inhalt: Dr. Erdmute Nieke
