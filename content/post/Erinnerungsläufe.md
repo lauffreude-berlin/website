@@ -25,7 +25,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Abermillionen Anschauungen… Leben und Werk der DADAistin __Hannah Höch__ – Lauf durch Tegel und Heiligensee
 
-* __George Grosz__ – ein LebensLAUF - Vom Geburtshaus in Berlin-Mitte zum Sterbehaus in Charlottenburg
+* __George Grosz__ – Ein LebensLAUF - Vom Geburtshaus in Berlin-Mitte zum Sterbehaus in Charlottenburg
 
 * __Acht Frauen und ein Mann__ – Lauf durch und um den Berliner Tiergarten
 
@@ -57,7 +57,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. Novem
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Spende erbeten. Für Erinnerungsläufe mit Crossroads Berlin https://crossroads-berlin.com/ wird eine Teilnahmegebühr von 15 € erhoben.
 
-## Der nächsten Erinnerungsläufe finden am Mittwoch, 26. Juli 2023, am Dienstag, 3. Oktober 2023 und am Donnerstag, 9. November 2023 statt. 
+## Die nächsten Erinnerungsläufe finden am Dienstag, 3. Oktober 2023, am Donnerstag, 9. November 2023 und am Freitag, 8. März 2024 statt. 
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 

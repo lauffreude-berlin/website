@@ -8,13 +8,6 @@ weight: 12
 ## Nächste Erinnerungsläufe 
 
 
-## Mittwoch, 26. Juli 2023
-
-__130. Geburtstag von George Grosz – ein LebensLAUF__
-
-__Am 26. Juli 1893 erblickt Georg Ehrenfried Gross in der Nähe des Gendarmenmarktes in Berlin-Mitte das Licht der Welt. Am 6. Juli 1959 stirbt er als George Grosz am Savignyplatz 5 in Charlottenburg im Haus seiner Schwiegereltern. Auf dem Weg zwischen Mitte und Charlottenburg werden wir versuchen die 65 Lebenjahre dieses deutsch-US-amerikanischen Malers, Grafikers, Karikaturisten und Kriegsgegners zu erlaufen und einige seiner Bilder zu betrachten.__ 
-
-Vor-Start: 18 Uhr Savignyplatz, 10623 Berlin, nördliche Grünanlage (gemeinsame S-Bahn-Fahrt bis Friedrichstr.) – Start: 18.20 Uhr S-Bf Friedrichstr. 10117 Berlin, am Denkmal „Züge in das Leben“ – Streckenlänge ca. 10 km durch Mitte, Schöneberg, Wilmersdorf und Charlottenburg – Strecke kann auch mit dem Fahrrad gut bewältigt werden. – Tempo max. 6:45 min/km (das Tempo bestimmt der/die Langsamste) mit sieben Pausen an wichtigen Orten – Ziel: ca. 21 Uhr Savignyplatz – Nach dem Lauf: alkoholfreies Bier und Tee, Salziges, Kunst auf Postkarten und ein Erinnerungsgeschenk – Wechselkleidung kann in ein Auto am Vor-Start (Savignyplatz) eingeschlossen werden. – Eine Spende für George Grosz in Berlin e. V. https://www.daskleinegroszmuseum.berlin/#mitmachen wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
  
 ## Dienstag, 3. Oktober 2023
 
@@ -22,13 +15,21 @@ __Moses Mendelssohn – Stadtlauf zu Erinnerungsorten__
 
 10 bis 13 Uhr - eine Veranstaltung von und mit Crossroads Berlin
 
-Anmeldung nur unter https://crossroads-berlin.com/event/moses-mendelssohn-ein-erinnerungslauf/
+Weitere Informationen und Anmeldung unter https://crossroads-berlin.com/event/moses-mendelssohn-ein-erinnerungslauf/
 
 ## Donnerstag, 9. November 2023
 
 __Spuren jüdischen Lebens in Spandau__
 
 Start 18 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+
+## Freitag, 8. März 2024
+
+__Frauentagslauf für alle Geschlechter__
+
+__LEBEN? oder THEATER? - In Erinnerung an Charlotte Salomon (1917 Berlin - 1943 Auschwitz)__
+
+Start 9.30 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 
 ## Lauftherapie – Aktueller Kurs 
