@@ -41,7 +41,7 @@ __Uhrzeit__ 18.00 Uhr bis 19.00 Uhr
 
 ## Kurs: Spätsommer & Frühherbst im Wald!
 
-__Laufkurs August bis Oktober im Tegeler Forst__
+__Laufkurs August bis Oktober im Tegeler Forst__ (läuft, nicht mehr buchbar)
  
 Probetraining: Do 24.08.2023
 
@@ -55,7 +55,7 @@ Probetraining: Do 24.08.2023
 
 5. Termin: Mo 11.09.2023
 
-6. Termin: __Fr__ 15.09.2023
+6. Termin: Do 14.09.2023
 
 7. Termin: Mo 18.09.2023
 
@@ -79,6 +79,51 @@ Probetraining: Do 24.08.2023
 
 
 __Treffpunkt__ Waldspielplatz Rallenweg, 13505 Berlin-Heiligensee, Bus 324 Rallenweg
+
+
+
+## Kurs: Novemberstimmung, Advent & Weihnachtszeit
+
+__Laufkurs November bis Januar an den Heiligenseer Wassergräben__
+ 
+Probetraining: __Fr__ 10.11.2023
+
+1. Termin: Mo 13.11.2023 
+
+2. Termin: Do 16.11.2023
+
+3. Termin: Mo 20.11.2023 
+
+4. Termin: __Mi__ 22.11.2023 (Buß- und Bettag)
+
+5. Termin: Mo 27.11.2023
+
+6. Termin: Do 30.11.2023
+
+7. Termin: Mo 04.12.2023
+
+8. Termin: Do 07.12.2023 
+
+9. Termin: Mo 11.12.2023
+
+10. Termin: Do 14.12.2023
+
+11. Termin: Mo 18.12.2023 
+
+12. Termin: Do 21.12.2023
+
+13. Termin: Mo 25.12.2023 (1. Weihnachtsfeiertag)
+
+14. Termin: Do 28.12.2023
+
+15. Termin: Mo 01.01.2024 (Neujahr)
+
+16. Termin: Do 04.01.2024
+
+
+__Treffpunkt__ vor Albrecht-Haushofer-Schule, Kurzebracker Weg 40-46, 13505 Berlin-Heiligensee, Bus 124 Kurzebracker Weg
+
+Brustlampen zum Laufen können zur Verfügung gestellt werden.
 
 
 Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})

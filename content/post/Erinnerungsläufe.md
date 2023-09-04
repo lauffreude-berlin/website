@@ -25,6 +25,8 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Abermillionen Anschauungen… Leben und Werk der DADAistin __Hannah Höch__ – Lauf durch Tegel und Heiligensee
 
+* LEBEN? oder THEATER? - In Erinnerung an __Charlotte Salomon__ (1917 Berlin - 1943 Auschwitz)
+
 * __George Grosz__ – Ein LebensLAUF - Vom Geburtshaus in Berlin-Mitte zum Sterbehaus in Charlottenburg
 
 * __Acht Frauen und ein Mann__ – Lauf durch und um den Berliner Tiergarten
@@ -41,7 +43,9 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Acht Synagogen auf 13 Kilometern - Jüdisches Leben__ in Berlin-Charlottenburg – gestern und heute
 
-* Spuren jüdischen Lebens in Spandau 
+* __Spuren jüdischen Lebens__ in Spandau 
+
+* __Moses Mendelssohn__ Stadtlauf zur Erinnerungsorten zwischen Kreuzberg und Mitte
 
 * __17. Juni 1953__ – Erinnerungen an den Volksaufstand in der DDR auf historischen Demonstationsstrecken
 
