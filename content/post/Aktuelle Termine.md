@@ -15,7 +15,7 @@ __Spuren jüdischen Lebens in Spandau__
 Im Gedenken an die Reichspogromnacht von 9. November 1938 
 
 
-Start 18 Uhr Brücke Zitadelle (Am Juliusturm 64, 13599 Berlin-Spandau) – BVG: U7 Zitadelle Spandau – Streckenlänge ca. 6 km durch Spandau mit neun Pausen  – Als Gruppe wird nur so schnell gerannt, dass der oder die langsamste Läufer*in mitlaufen kann. – Bitte leuchtende und reflektierende Laufkleidung tragen. Wechselkleidung kann in ein Auto am Start eingeschlossen werden –  Nachverpflegung ca. 20 Uhr mit Tee, alkoholfreiem Bier und Salzigem und einem kleinen Erinnerungsgeschenk – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+Start 18 Uhr Brücke Zitadelle (Am Juliusturm 64, 13599 Berlin-Spandau) – BVG: U7 Zitadelle Spandau – Streckenlänge ca. 6 km durch Spandau mit neun Pausen  – Als Gruppe wird nur so schnell gerannt, dass der oder die langsamste Läufer:in mitlaufen kann. – Bitte leuchtende und reflektierende Laufkleidung tragen. Wechselkleidung kann in ein Auto am Start eingeschlossen werden –  Nachverpflegung ca. 20 Uhr mit Tee, alkoholfreiem Bier und Salzigem und einem kleinen Erinnerungsgeschenk – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 ## Freitag, 8. März 2024
 
