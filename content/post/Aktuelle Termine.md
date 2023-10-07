@@ -8,20 +8,14 @@ weight: 12
 ## Nächste Erinnerungsläufe 
 
 
- 
-## Dienstag, 3. Oktober 2023
-
-__Moses Mendelssohn – Stadtlauf zu Erinnerungsorten__
-
-10 bis 13 Uhr - eine Veranstaltung von und mit Crossroads Berlin
-
-Weitere Informationen und Anmeldung unter https://crossroads-berlin.com/event/moses-mendelssohn-ein-erinnerungslauf/
-
 ## Donnerstag, 9. November 2023
 
 __Spuren jüdischen Lebens in Spandau__
 
-Start 18 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+Im Gedenken an die Reichspogromnacht von 9. November 1938 
+
+
+Start 18 Uhr Brücke Zitadelle (Am Juliusturm 64, 13599 Berlin-Spandau) – BVG: U7 Zitadelle Spandau – Streckenlänge ca. 6 km durch Spandau mit neun Pausen  – Als Gruppe wird nur so schnell gerannt, dass der oder die langsamste Läufer*in mitlaufen kann. – Bitte leuchtende und reflektierende Laufkleidung tragen. Wechselkleidung kann in ein Auto am Start eingeschlossen werden –  Nachverpflegung ca. 20 Uhr mit Tee, alkoholfreiem Bier und Salzigem und einem kleinen Erinnerungsgeschenk – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
 
 ## Freitag, 8. März 2024
 
@@ -30,6 +24,13 @@ __Frauentagslauf für alle Geschlechter__
 __LEBEN? oder THEATER? - In Erinnerung an Charlotte Salomon (1917 Berlin - 1943 Auschwitz)__
 
 Start 9.30 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+
+## Samstag, 27. April 2024
+
+__Die Lolalola aus Berlin! Marlene-Dietrich-Erinnerungslauf__
+
+Start 10 Uhr S-Bf Innsbrucker Platz, an der Grünanlage Kleiner Park am Innsbrucker Platz - Anmeldung nur über Crossroads Berlin https://crossroads-berlin.com/
+
 
 
 ## Lauftherapie – Aktueller Kurs 
@@ -76,6 +77,8 @@ Probetraining: Do 24.08.2023
 15. Termin: Mo 16.10.2023
 
 16. Termin: Do 19.10.2023
+
+Nachholtermin: Mo 23.10.2023
 
 
 __Treffpunkt__ Waldspielplatz Rallenweg, 13505 Berlin-Heiligensee, Bus 324 Rallenweg

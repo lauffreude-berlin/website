@@ -61,7 +61,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. Novem
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Spende erbeten. Für Erinnerungsläufe mit Crossroads Berlin https://crossroads-berlin.com/ wird eine Teilnahmegebühr von 15 € erhoben.
 
-## Die nächsten Erinnerungsläufe finden am Dienstag, 3. Oktober 2023, am Donnerstag, 9. November 2023 und am Freitag, 8. März 2024 statt. 
+## Die nächsten Erinnerungsläufe finden am Donnerstag, 9. November 2023, am Freitag, 8. März 2024 und am Samstag, 27. April 2024 statt. 
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
