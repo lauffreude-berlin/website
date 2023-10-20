@@ -12,7 +12,7 @@ weight: 12
 
 __Spuren jüdischen Lebens in Spandau__
 
-Im Gedenken an die Reichspogromnacht von 9. November 1938 
+Im Gedenken an die Reichspogromnacht vom 9. November 1938 
 
 
 Start 18 Uhr Brücke Zitadelle (Am Juliusturm 64, 13599 Berlin-Spandau) – BVG: U7 Zitadelle Spandau – Streckenlänge ca. 6 km durch Spandau mit neun Pausen  – Als Gruppe wird nur so schnell gerannt, dass der oder die langsamste Läufer:in mitlaufen kann. – Bitte leuchtende und reflektierende Laufkleidung tragen. Wechselkleidung kann in ein Auto am Start eingeschlossen werden –  Nachverpflegung ca. 20 Uhr mit Tee, alkoholfreiem Bier und Salzigem und einem kleinen Erinnerungsgeschenk – Eine Spende für Neve Hanna Kinderhilfe e.V. wird erbeten. – Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
@@ -38,50 +38,6 @@ Start 10 Uhr S-Bf Innsbrucker Platz, an der Grünanlage Kleiner Park am Innsbruc
 __16 Termine in 8 Wochen + ein Probetraining__
 
 __Uhrzeit__ 18.00 Uhr bis 19.00 Uhr
-
-
-## Kurs: Spätsommer & Frühherbst im Wald!
-
-__Laufkurs August bis Oktober im Tegeler Forst__ (läuft, nicht mehr buchbar)
- 
-Probetraining: Do 24.08.2023
-
-1. Termin: Mo 28.08.2023 
-
-2. Termin: Do 31.08.2023
-
-3. Termin: Mo 04.09.2023 
-
-4. Termin: Do 07.09.2023
-
-5. Termin: Mo 11.09.2023
-
-6. Termin: Do 14.09.2023
-
-7. Termin: Mo 18.09.2023
-
-8. Termin: Do 21.09.2023 
-
-9. Termin: Mo 25.09.2023
-
-10. Termin: Do 28.09.2023
-
-11. Termin: Mo 02.10.2023 
-
-12. Termin: Do 05.10.2023
-
-13. Termin: Mo 09.10.2023
-
-14. Termin: Do 12.10.2023
-
-15. Termin: Mo 16.10.2023
-
-16. Termin: Do 19.10.2023
-
-Nachholtermin: Mo 23.10.2023
-
-
-__Treffpunkt__ Waldspielplatz Rallenweg, 13505 Berlin-Heiligensee, Bus 324 Rallenweg
 
 
 
