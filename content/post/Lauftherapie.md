@@ -35,7 +35,14 @@ Jeder Kurs läuft acht Wochen. Das Training findet zweimal pro Woche jeweils ein
 
 __Nach 16 Trainingseinheiten ist es möglich, 20 Minuten ohne Pause beschwerdefrei zu laufen oder sogar fünf Kilometer ohne Beschwerden zu laufen.__ 
 
-Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen (Formulare unter [Kontakt]({{< ref "Kontakt.md" >}})).
+Ich empfehle vor dem Start des Kurses ein ärztliches Attest vorzulegen. Eine Teilnahmeerklärung ist nach einem erfolgreichen Probetraining auszufüllen. 
+
+
+__Dokumente zum Herunterladen__
+
+[Teilnahmeerklärung Lauftherapie](/Teilnahmeerklärung.pdf)
+
+[Ärztliches Attest](/Ärztliches%20Attest.pdf)
 
 
 ## Kosten der Lauftherapie

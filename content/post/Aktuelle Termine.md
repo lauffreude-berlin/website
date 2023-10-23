@@ -82,7 +82,9 @@ Probetraining: __Fr__ 10.11.2023
 
 __Treffpunkt__ vor Albrecht-Haushofer-Schule, Kurzebracker Weg 40-46, 13505 Berlin-Heiligensee, Bus 124 Kurzebracker Weg
 
-Brustlampen zum Laufen können zur Verfügung gestellt werden.
+Brustlampen zum Laufen können zur Verfügung gestellt werden. 
+
+Treffpunkt und Feiertagstermine können auf Wunsch der Gruppe auch noch verändert werden. 
 
 
 Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
