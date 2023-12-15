@@ -21,7 +21,8 @@ Start 9.30 Uhr – weitere Infos folgen – Anmeldung über [Kontakt]({{< ref "K
 
 __Die Lolalola aus Berlin! Marlene-Dietrich-Erinnerungslauf__
 
-Start 10 Uhr S-Bf Innsbrucker Platz, an der Grünanlage Kleiner Park am Innsbrucker Platz - Anmeldung nur über Crossroads Berlin https://crossroads-berlin.com/
+Start 10 Uhr S-Bf Innsbrucker Platz, an der Grünanlage Kleiner Park am Innsbrucker Platz - Anmeldung nur über Crossroads Berlin https://crossroads-berlin.com/event/marlene-dietrich/
+
 
 
 
