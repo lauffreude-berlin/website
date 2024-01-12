@@ -49,7 +49,7 @@ __Dokumente zum Herunterladen__
 
 120 € für einen Kurs. Nicht wahr genommene Termine werden nicht erstattet. Preisnachlass aus sozialen Gründen kann persönlich angefragt werden. Diskretion darüber ist selbstverständlich.
 
-## Der nächste Kurs startet am 11. Januar 2024 um 18 Uhr. 
+## Der nächste Kurs startet am 11. April 2024 um 18 Uhr. 
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 

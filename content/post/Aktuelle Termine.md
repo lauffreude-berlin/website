@@ -31,59 +31,60 @@ Start 10 Uhr S-Bf Innsbrucker Platz, an der Grünanlage Kleiner Park am Innsbruc
 
 ## Lauftherapie-Kurs 
 
-## Neues Jahr! Neue Vorsätze! Mehr bewegen an der frischen Luft!
-
-__Januar bis März an den Heiligenseer Wassergräben__
+__Draußen im Frühling! April bis Juni im Tegeler Forst__
 
 __16 Termine in 8 Wochen + ein Probetraining__
 
 __Uhrzeit__ 18.00 Uhr bis 19.00 Uhr
  
-Probetraining: Do 11.01.2024
+Probetraining: Do 11.04.2024
 
-1. Termin: Mo 15.01.2024 
+1. Termin: Mo 15.04.2024 
 
-2. Termin: Do 18.01.2024
+2. Termin: Do 18.04.2024
 
-3. Termin: Mo 22.01.2024 
+3. Termin: Mo 22.04.2024 
 
-4. Termin: Do 25.01.2024
+4. Termin: Do 25.04.2024
 
-5. Termin: Mo 29.01.2024
+5. Termin: Mo 29.04.2024
 
-6. Termin: Do 01.02.2024
+6. Termin: Do 02.05.2024
 
-7. Termin: Mo 05.02.2024
+7. Termin: Mo 06.05.2024
 
-8. Termin: Do 08.02.2024 
+8. Termin: Do 09.05.2024 (Christi Himmelfahrt)
 
-9. Termin: Mo 12.02.2024 (Rosenmontag)
+9. Termin: Mo 13.05.2024
 
-10. Termin: Do 15.02.2024
+10. Termin: Do 16.05.2024
 
-11. Termin: Mo 19.02.2024 
+11. Termin: Mo 20.05.2024 (Pfingstmontag)
 
-12. Termin: Do 22.02.2024
+12. Termin: Do 23.05.2024
 
-13. Termin: Mo 26.02.2024 
+13. Termin: Mo 27.05.2024 
 
-14. Termin: Do 29.02.2024
+14. Termin: Do 30.05.2024
 
-15. Termin: Mo 04.03.2024
+15. Termin: Mo 03.06.2024
 
-16. Termin: Do 07.03.2024
+16. Termin: Do 06.06.2024
 
 
-__Treffpunkt__ vor Albrecht-Haushofer-Schule, Kurzebracker Weg 40-46, 13505 Berlin-Heiligensee, Bus 124 Kurzebracker Weg
+__Treffpunkt__ Waldspielplatz, Rallenweg, 13505 Berlin-Heiligensee, Bus 324 Rallenweg
 
-Treffpunkt kann auf Wunsch der Gruppe verändert werden.
-
-Brustlampen zum Laufen können zur Verfügung gestellt werden. 
-
- 
-
+Treffpunkt und Feiertagslauftermine können auf Wunsch der Gruppe auch verändert werden. 
 
 Anmeldung über [Kontakt]({{< ref "Kontakt.md" >}})
+
+
+
+## Individueller Lauftherapie-Kurs 
+
+Die Termine des nächsten Kurses passen nicht in Ihren Terminkalender?
+
+Wenn Sie mit mir [Kontakt]({{< ref "Kontakt.md" >}}) aufnehmen, können wir gern gemeinsam einen individuellen Kurs für Sie erstellen.
 
 
 
