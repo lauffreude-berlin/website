@@ -7,42 +7,6 @@ weight: 12
 ---
 ## Nächste Erinnerungsläufe 
 
-## 14.01.2024 Wir halten zusammen – Für Demokratie einstehen!
-
-Das 26-Kilometer-Langstreckentraining von Heiligensee zur Demo am Brandenburger Tor oder auch ein besonderer und sehr spontaner Erinnerungslauf für eine bunte und demokratische Zukunft!
-
-https://fridaysforfuture.berlin/fff-ruft-auf-jetzt-gegen-afd-und-fuer-demokratie-einstehen/
-
-Aus aktuellem Anlass verlege ich morgen mein Langstreckentraining von Heiligensee zum Brandenburger Tor und freue mich über Mitläufer:innen!
-
-Ziel: 
-
-13.45 Uhr – Der Rufer auf dem 17. Juni kurz vor dem Brandenburger Tor
-
-Strecke: 
-
-10.00 Uhr – Start Heiligensee 
-
-11.00 Uhr – km 7: Sechserbrücke Tegel  
-
-11.55 Uhr – km 13: Mäckeritzbrücke  
-
-12.35 Uhr – km 18: Schloss Charlottenburg  
-
-13.00 Uhr – km 21: Charlottenburger Tor 
-
-13.20 Uhr – km 23: Bellevue 
-
-13.45 Uhr – km 26: Der Rufer 17. Juni 
-
-Ich laufe sehr langsam, ca. 8er Schnitt. 
-
-Für Versorgung unterwegs nehme ich Geld mit und schaue spontan, wo es was zum Trinken gibt. Wechselsachen (für die Demonstration wichtig, um nicht auszukühlen) bekomme/n ich/wir zum Ziel geradelt.
-
-Bitte meldet Euch bei mir für letzte Absprachen, falls Ihr – auch eine Teilstrecke – mitlaufen wollt!
-[Kontakt]({{< ref "Kontakt.md" >}})
-
-
 ## Freitag, 8. März 2024
 
 __Frauentagslauf für alle Geschlechter__
