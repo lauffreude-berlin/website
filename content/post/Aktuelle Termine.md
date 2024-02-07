@@ -25,6 +25,13 @@ __Die Lolalola aus Berlin! Marlene-Dietrich-Erinnerungslauf__
 
 Start 10 Uhr S-Bf Innsbrucker Platz, an der Grünanlage Kleiner Park am Innsbrucker Platz - weitere Informationen und Anmeldung über Crossroads Berlin https://crossroads-berlin.com/event/marlene-dietrich/
 
+## Samstag, 20. Juli 2024
+
+__Nie wieder ist jetzt! - Erinnerungslauf an den 20. Juli 1944 nach Plötzensee__
+
+
+Start 9 Uhr Heckerdamm 260, 13627 Berlin / Ecke Halemweg, BVG: U7 Halemweg - weitere Informationen und Anmeldung über Crossroads Berlin https://crossroads-berlin.com/event/erinnerungslauf-nach-ploetzensee/
+
 ## Nächste ErinnerungsRADtour
 
 ## Sonntag, 26. Mai 2024
