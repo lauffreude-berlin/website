@@ -54,19 +54,15 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 ## Feste Termine für Erinnerungsläufe
 
-Am 8. März (in Berlin ein gesetzlicher Feiertag), am Karfreitag und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. 
+Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. 
 
 ## Kosten Erinnerungsläufe
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den festen Terminen am 8. März, Karfreitag und 9. November wird eine Spende erbeten. Für Erinnerungsläufe mit Crossroads Berlin https://crossroads-berlin.com/ wird eine Teilnahmegebühr von 15 € erhoben.
 
-## Die nächsten Erinnerungsläufe finden am Freitag, 8. März 2024, am Samstag, 27. April 2024 und am Samstag, 20. Juli 2024 statt, eine ErinnerungsRADtour am sonntag, 26. Mai 2024.
+## Die nächsten Erinnerungsläufe finden am Samstag, 27. April 2024 und am Samstag, 20. Juli 2024 statt, eine ErinnerungsRADtour am sonntag, 26. Mai 2024.
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
-
-## Bericht über den letzten Erinnerungslauf am 9. November 2023
-
-https://germanroadraces.de/?p=224682
 
 ## Stimmen von Teilnehmer:innen zum Erinnerungslauf am Karfreitag 2023
 
