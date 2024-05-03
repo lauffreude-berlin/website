@@ -13,9 +13,9 @@ ist eine psychosoziale Bewegungstherapie zur Stärkung der Selbstwirksamkeit und
 
 ## Zielgruppe und Ziele der Lauftherapie
 
-Noch-Nicht-Läufer:innen, die sich in einer kleinen Gruppe in der Natur bewegen wollen.
+Noch-Nicht-Läufer:innen, die sich in der Natur bewegen wollen.
 
-* Freude am (gemeinsamen) Laufen und Bewegen an der frischen Luft entwickeln 
+* Freude am Laufen und Bewegen an der frischen Luft entwickeln 
     
 * Stärkung des körperlichen und seelischen Wohlbefindens
 
@@ -49,7 +49,7 @@ __Dokumente zum Herunterladen__
 
 120 € für einen Kurs. Nicht wahr genommene Termine werden nicht erstattet. Preisnachlass aus sozialen Gründen kann persönlich angefragt werden. Diskretion darüber ist selbstverständlich.
 
-## Der nächste Kurs startet am 11. April 2024 um 18 Uhr. 
+## Termine
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
