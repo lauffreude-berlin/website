@@ -35,6 +35,8 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Widerstandsgeschichten an und um die __Gedenkstätte Plötzensee__ durch Charlottenburg Nord
 
+* __Nie wieder ist jetzt!__ - Erinnerungslauf an den 20. Juli 1944 nach Plötzensee
+
 * Tod und Leben! - __Wenn wir die Geschichte vergessen, holt sie uns ein.__ - Lauf durch Moabit und Mitte, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof und ehemaliges Zellengefängnis Moabit
 
 * Was ist passiert? __Stolperstein-Lauf__ durch Berlin-Heiligensee (oder auch durch andere Berliner Kieze)
@@ -60,7 +62,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich z
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten. Für Erinnerungsläufe mit Crossroads Berlin https://crossroads-berlin.com/ wird eine Teilnahmegebühr von 15 € erhoben.
 
-## Die nächsten Erinnerungsläufe finden am Samstag, 27. April 2024 und am Samstag, 20. Juli 2024 statt, eine ErinnerungsRADtour am Sonntag, 26. Mai 2024.
+## Der nächste Erinnerungslauf findet am Samstag, 20. Juli 2024 statt, eine ErinnerungsRADtour am Sonntag, 26. Mai 2024.
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 

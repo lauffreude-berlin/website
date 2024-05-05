@@ -29,7 +29,7 @@ Start 13 Uhr am Käthe-Kollwitz-Denkmal (Kollwitzplatz, 10 405 Berlin) – BVG S
 
 Zur Zeit findet kein Kurs statt. 
 
-Nehmen Sie gern mit mir [Kontakt]({{< ref "Kontakt.md" >}}) auf um für Sie einen passenden Kurstermin zu finden. 
+Nehmen Sie gern mit mir [Kontakt]({{< ref "Kontakt.md" >}}) auf! Gemeinsam finden wir einen passenden Kurstermin für Sie. 
 
 
 
