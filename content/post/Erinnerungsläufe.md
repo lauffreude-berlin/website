@@ -25,7 +25,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Abermillionen Anschauungen… Leben und Werk der DADAistin __Hannah Höch__ – Lauf durch Tegel und Heiligensee
 
-* LEBEN? oder THEATER? - In Erinnerung an __Charlotte Salomon__ (1917 Berlin - 1943 Auschwitz)
+* LEBEN? oder THEATER? - In Erinnerung an __Charlotte Salomon__ (1917 Berlin - 1943 Auschwitz) in Charlottenburg
 
 * __George Grosz__ – Ein LebensLAUF - Vom Geburtshaus in Berlin-Mitte zum Sterbehaus in Charlottenburg
 
@@ -35,7 +35,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * Widerstandsgeschichten an und um die __Gedenkstätte Plötzensee__ durch Charlottenburg Nord
 
-* __Nie wieder ist jetzt!__ - Erinnerungslauf an den 20. Juli 1944 nach Plötzensee
+* __Nie wieder ist jetzt!__ - Erinnerungslauf an den 20. Juli 1944 nach Plötzensee (Charlottenburg Nord)
 
 * Tod und Leben! - __Wenn wir die Geschichte vergessen, holt sie uns ein.__ - Lauf durch Moabit und Mitte, u. a. Invalidenfriedhof, Dorotheenstädtischer Friedhof und ehemaliges Zellengefängnis Moabit
 
