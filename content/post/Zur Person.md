@@ -28,6 +28,8 @@ weight: 10
 
 * Yoga-Trainerin, Qualifikationslevel 2 (Weiterbildung 2022 Akademie für Sport und Gesundheit)
 
+* Kinder-Entspannungstrainerin, Qualifikationslevel 2 (Weiterbildung 2024 Akademie für Sport und Gesundheit)
+
 
 
 
