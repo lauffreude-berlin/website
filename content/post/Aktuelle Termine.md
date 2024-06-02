@@ -16,11 +16,11 @@ __Nie wieder ist jetzt! - Erinnerungslauf an den 20. Juli 1944 nach Plötzensee_
 Start 9 Uhr Heckerdamm 260, 13627 Berlin / Ecke Halemweg, BVG: U7 Halemweg - weitere Informationen und Anmeldung über Crossroads Berlin https://crossroads-berlin.com/event/erinnerungslauf-nach-ploetzensee/
 
 
-## Erinnerungsläufe - in PLanung
+## Erinnerungsläufe - in Planung
 
-9. November 2024 - Judentum in Berlin - Bayrisches Viertel
+__9. November 2024__ Judentum in Berlin - Bayrisches Viertel
 
-8. März 2025 - Auf den Spuren von Gabriele Tergit (1894-1982) in Berlin
+__8. März 2025__ Frauentagslauf - Auf den Spuren von Gabriele Tergit (1894-1982) in Berlin
 
 Weitere Informationen folgen hier!
 
