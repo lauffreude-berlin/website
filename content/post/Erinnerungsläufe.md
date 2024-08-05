@@ -45,7 +45,9 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Acht Synagogen auf 13 Kilometern - Jüdisches Leben__ in Berlin-Charlottenburg – gestern und heute
 
-* __Spuren jüdischen Lebens__ in Spandau 
+* __Spuren jüdischen Lebens__ in Spandau
+
+* __Wo Lotte Laserstein unterrichtete und Albert Einstein spazieren ging …__ Das Bayrische Viertel in Berlin-Schöneberg – Judentum in Berlin
 
 * __Moses Mendelssohn__ Stadtlauf zu Erinnerungsorten zwischen Kreuzberg und Mitte
 
@@ -60,11 +62,15 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich z
 
 ## Kosten Erinnerungsläufe
 
-Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten. Für Erinnerungsläufe mit Crossroads Berlin https://crossroads-berlin.com/ wird eine Teilnahmegebühr von 15 € erhoben.
+Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten.
 
-## Der nächste Erinnerungslauf findet am Samstag, 20. Juli 2024 statt.
+## Der nächste Erinnerungslauf findet am Samstag, 9. November 2024 statt.
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+
+## Bericht über Erinnerungslauf nach Plötzensee am 20. Juli 2024
+
+https://news.germanroadraces.de/?p=233747
 
 ## Bericht über den Frauentagslauf 2024 - in Erinnerung an Charlotte Salomon
 
