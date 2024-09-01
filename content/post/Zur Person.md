@@ -22,13 +22,13 @@ weight: 10
       
 * Läuferin (seit 2010 nach einer Diabetes-Typ-II-Diagnose)
       
-* regelmäßige Teilnahme an der Ersten-Hilfe-Ausbildung für Ersthelfende (zuletzt Januar 2023) 
-      
 * Lauftherapeutin (Weiterbildung 2021/22 Multimodale Lauftherapie – MML – an der Hochschule für angewandte Wissenschaft und Kunst Hildesheim)
 
 * Yoga-Trainerin, Qualifikationslevel 2 (Weiterbildung 2022 Akademie für Sport und Gesundheit)
 
 * Kinder-Entspannungstrainerin, Qualifikationslevel 2 (Weiterbildung 2024 Akademie für Sport und Gesundheit)
+
+* regelmäßige Teilnahme an der Ersten-Hilfe-Ausbildung für Ersthelfende (zuletzt August 2024)
 
 
 
