@@ -68,6 +68,10 @@ Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festg
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
+## Bericht über Erinnerungslauf durch das Bayerische Viertel am 9. November 2024
+
+https://news.germanroadraces.de/erinnern-impressionen-vom-erinnerungslauf-am-9-november-2024-von-dr-erdmute-nieke/
+
 ## Bericht über Erinnerungslauf nach Plötzensee am 20. Juli 2024
 
 https://news.germanroadraces.de/?p=233747
