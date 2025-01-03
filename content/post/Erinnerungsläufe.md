@@ -27,6 +27,8 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * LEBEN? oder THEATER? - In Erinnerung an __Charlotte Salomon__ (1917 Berlin - 1943 Auschwitz) in Charlottenburg
 
+* __Ich würde keinen Nazi in die Gesellschaft der Menschen aufnehmen.__ In Erinnerung an __Gabriele Tergit__ eigentlich Elise Hirschmann, verheiratete Reifenberg (1894 Berlin - 1982 London)
+
 * __George Grosz__ – Ein LebensLAUF - Vom Geburtshaus in Berlin-Mitte zum Sterbehaus in Charlottenburg
 
 * __Acht Frauen und ein Mann__ – Lauf durch und um den Berliner Tiergarten
