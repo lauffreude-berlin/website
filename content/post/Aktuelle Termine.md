@@ -12,7 +12,7 @@ weight: 12
 
 __Ich würde keinen Nazi in die Gesellschaft der Menschen aufnehmen.__
 
-In Erinnerung an __Gabriele Tergit__ eigentlich Elise Hirschmann, verheiratete Reifenberg (geb. 4. März 1894 in Berlin, gest. 25. Juli 1982 in London)
+In Erinnerung an __Gabriele Tergit__ eigentlich Dr. Elise Hirschmann, verheiratete Reifenberg (geb. 4. März 1894 in Berlin, gest. 25. Juli 1982 in London).
 
 Gabriele Tergit ist Journalistin und Schriftstellerin in der Weimarer Republik. Am 24. Dezember 1924 erhält sie beim Berliner Tageblatt eine Festanstellung. Vor 100 Jahren sensationell als Frau – sie ist die erste weibliche Gerichtsreporterin. Schreibend macht sie auf den wachsenden Einfluss der Nationalsozialisten aufmerksam. Um ihr Leben zu retten, muss Gabriele Tergit schon im Frühjahr 1933 Berlin verlassen. Über Tschechien und Palästina gelingt ihr mit ihrer Familie die Flucht nach London. Nach Berlin kehrt sie nur noch besuchsweise zurück. Ihre Romane „Käsebier erobert den Kurfürstendamm“, „Effingers“, „Der erste Zug nach Berlin“ (hier Titelzitat des Laufes) spielen alle in Berlin und lesen sich heute absolut spannend. Auf elf Lauf-Kilometern soll an diese bemerkenswerte und mutige Frau erinnert werden.
 
