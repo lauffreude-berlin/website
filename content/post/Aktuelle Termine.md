@@ -6,6 +6,19 @@ weight: 12
 
 ---
 
+## Nächste Erinnerungsradtour
+
+## Montag, 27. Januar 2025 um 18 Uhr Stolpersteine in Heiligensee
+
+
+Wir werden acht Menschen aus Heiligensee kennenlernen, die viel Leid ertragen mussten und denen von den Nationalsozialisten das Recht auf Leben abgesprochen wurde. Heute erinnern acht Stolpersteine an diese Menschen. Das macht uns aufmerksam sie nicht zu vergessen. Die acht Stolpersteine werden wir dabei putzen und schmücken. 
+
+
+Montag, 27.01.2025 – Start 18 Uhr vor dem Restaurant Roma, Hennigsdorfer Str. 17, 13503 Berlin – 7,5 km – vorwiegend Nebenstraßen – Unterwegs gibt es acht kleine Pausen an acht Stolpersteinen, wir hören die Lebensgeschichten der ermordeten Menschen, polieren die Stolpersteine und schmücken die Steine.
+
+__Zum Gedenktag an die Opfer des Nationalsozialismus!__
+
+
 ## Nächster Erinnerungslauf
 
 ## Samstag, 8. März 2025 um 9.30 Uhr Frauentagslauf für alle Geschlechter
