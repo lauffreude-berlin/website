@@ -66,7 +66,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich z
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten.
 
-## Die nächste Erinnerungsradtour findet am 27. Januar 2025 statt. Der nächste Erinnerungslauf findet am Samstag, 8. März 2025 statt.
+## Der nächste Erinnerungslauf findet am Samstag, 8. März 2025 statt.
 
 Weitere Infos finden Sie unter: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
