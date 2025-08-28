@@ -51,7 +51,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Wo Lotte Laserstein unterrichtete und Albert Einstein spazieren ging …__ Das Bayerische Viertel in Schöneberg – Judentum in Berlin
 
-* ____Und meine Thränen liess ich in Berlin.__ Else Lasker-Schüler, 1933 - __Jüdisch-queere Geschichten im Nollendorf-Kiez__
+* __Und meine Thränen liess ich in Berlin.__ Else Lasker-Schüler, 1933 __Jüdisch-queere Geschichten im Nollendorf-Kiez__
 
 * __Moses Mendelssohn__ Stadtlauf zu Erinnerungsorten zwischen Kreuzberg und Mitte
 
@@ -62,7 +62,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 ## Feste Termine für Erinnerungsläufe
 
-Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Sonntag, 9. November 2025 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Kontakt.md" >}})
+Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Sonntag, 9. November 2025 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
 ## Kosten Erinnerungsläufe
 

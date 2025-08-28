@@ -23,8 +23,6 @@ ca. neun Kilometer durch den Nollendorf-Kiez in Berlin-Schöneberg mit sechszehn
 
 ## Lauftherapie-Kurse
 
-Zur Zeit findet kein Kurs statt. 
-
 Nehmen Sie gern mit mir [Kontakt]({{< ref "Kontakt.md" >}}) auf. Gemeinsam finden wir einen passenden Kurstermin für Sie. 
 
 
@@ -32,7 +30,4 @@ Nehmen Sie gern mit mir [Kontakt]({{< ref "Kontakt.md" >}}) auf. Gemeinsam finde
 ## Laufgruppe in Berlin-Heiligensee
 
 Aus den bisherigen Lauftherapie-Kursen ist eine Laufgruppe in Heiligensee entstanden. Gelaufen wird jeweils montags und donnerstags am frühen Abend vier bis fünf Kilometer in einem moderaten Tempo. Absprachen über Ort und Uhrzeit werden über eine Signal-Gruppe getroffen. Die Laufgruppe freut sich auf neue Mitläufer:innen, die über etwas Lauferfahrung verfügen.
-
-
-
 Nehmen Sie gern mit mir [Kontakt]({{< ref "Kontakt.md" >}}) auf.
