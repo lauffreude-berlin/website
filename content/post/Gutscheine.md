@@ -12,7 +12,7 @@ weight: 12
 
 __Verschenken Sie Bewegung!__ 
 
-Ostern, Weihnachten, Chanukka, Zuckerfest, Geburtstag, Hochzeitstag, Frauentag, Beginn des Ruhestandes - Anlässe gibt es viele!
+Ostern, Weihnachten, Chanukka, Ramadanfest, Geburtstag, Hochzeitstag, Frauentag, Beginn des Ruhestandes - Anlässe gibt es viele!
 
 Schenken Sie Ihren Freund:innen ein Angebot der Lauffreude Berlin!
 
