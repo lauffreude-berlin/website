@@ -14,7 +14,7 @@ weight: 10
 
 * Theologin (Studium der Evangelischen Theologie von 1993 bis 1999, Promotion 2007 an der Theologischen Fakultät der Humboldt-Universität Berlin)
 
-* Religionslehrerin (seit 2000) 
+* Religionslehrerin (seit 2000) https://www.mein-kamishibai.de/vier-gute-gr%C3%BCnde-f%C3%BCr-das-kamishibai-in-f%C3%B6rderschule-und-sonderp%C3%A4dagogischem-f%C3%B6rderzentrum
 
 * Schulseelsorgerin (Weiterbildung 2017/18 in der Ev. Kirche Norddeutschlands)
 
