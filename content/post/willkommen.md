@@ -6,7 +6,7 @@ weight: 1
 
 ---
 
-# Herzlich Willkommen bei Lauffreude Berlin!
+# Herzlich Willkommen bei LaufFREUDE Berlin!
 
 __Laufen kann Medizin und Lebensfreude sein – ganz gleich ob mit einer Lauftherapie oder bei einem Erinnerungslauf.__ 
 

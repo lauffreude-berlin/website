@@ -62,11 +62,15 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 ## Feste Termine für Erinnerungsläufe
 
-Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Sonntag, 9. November 2025 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Sonntag, 8. März 2026 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
 ## Kosten Erinnerungsläufe
 
 Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten.
+
+## Bericht über den Erinnerungslauf im Nollendorf-Kiez am 9. November 2025
+
+https://news.germanroadraces.de/neun-kilometer-mit-18-roten-rosen-impressionen-vom-erinnerungslauf-am-9-november-2025-von-dr-erdmute-nieke/
 
 ## Bericht über den Frauentagslauf 2025 - in Erinnerung an Gabriele Tergit
 
