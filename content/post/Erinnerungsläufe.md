@@ -29,6 +29,8 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Ich würde keinen Nazi in die Gesellschaft der Menschen aufnehmen.__ In Erinnerung an __Gabriele Tergit__ eigentlich Dr. Elise Hirschmann, verheiratete Reifenberg (1894 Berlin - 1982 London)
 
+* __Wir alle, die wir an eine deutsche Demokratie glaubten, machten uns der Blindheit schuldig. Wir sahen nicht die Verräter in unserer Mitte. Alice Salomon 1942__ Von der Jannowitzbrücke nach Schöneberg - In Erinnerung an Alice Salomon (1872 Berlin - 1948 New York)
+
 * __George Grosz__ – Ein LebensLAUF - Vom Geburtshaus in Berlin-Mitte zum Sterbehaus in Charlottenburg
 
 * __Acht Frauen und ein Mann__ – Lauf durch und um den Berliner Tiergarten
@@ -66,7 +68,7 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich z
 
 ## Kosten Erinnerungsläufe
 
-Die Kosten werden je nach Gruppengröße und Länge des Laufes individuell festgelegt. Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten.
+Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten. Für extra gebuchte Läufe werden die Kosten je nach Gruppengröße und Länge des Laufes individuell festgelegt. 
 
 ## Bericht über den Erinnerungslauf im Nollendorf-Kiez am 9. November 2025
 

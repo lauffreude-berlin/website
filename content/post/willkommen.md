@@ -13,7 +13,9 @@ __Laufen kann Medizin und Lebensfreude sein – ganz gleich ob mit einer Laufthe
 
 Ich biete Ihnen verschiedene Formen des leistungsfreien Laufens an. Es ist nie zu spät mit dem Laufen zu beginnen. Beim gemeinsamen Laufen an der frischen Luft können Sie Freude empfinden, Orte und Menschen kennenlernen, eine Stärkung des seelischen und körperlichen Wohlbefindens erfahren und präventiv für die Ihre Gesundheit sorgen. 
 
-Wenn Ihnen die Angebote von __Lauffreude Berlin__ gefallen - freue mich von Ihnen zu hören - am Telefon oder per Mail! Die Kontaktdaten finden Sie hier: [Kontakt]({{< ref "Kontakt.md" >}})
+Der nächste Erinnerungslauf findet zum Frauentag am Sonntag, den 8. März 2026 statt. Der Lauf ist Alice Salomon (1872 Berlin - 1948 New York) gewidmet.
+
+Wenn Ihnen die Angebote von __LaufFREUDE Berlin__ gefallen - freue mich von Ihnen zu hören - am Telefon oder per Mail! Die Kontaktdaten finden Sie hier: [Kontakt]({{< ref "Kontakt.md" >}})
 
 Herzlich
 
