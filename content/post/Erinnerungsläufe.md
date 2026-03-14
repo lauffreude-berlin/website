@@ -57,7 +57,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Moses Mendelssohn__ Stadtlauf zu Erinnerungsorten zwischen Kreuzberg und Mitte
 
-* __17. Juni 1953__ – Erinnerungen an den Volksaufstand in der DDR auf historischen Demonstationsstrecken
+* __17. Juni 1953__ Erinnerungen an den Volksaufstand in der DDR auf historischen Demonstationsstrecken
 
 * __Der Freiheitsbegriff__ und über 500 Jahre Reformationsgeschichte – Ein Lauf durch den Tiergarten
 
@@ -69,6 +69,10 @@ Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich z
 ## Kosten Erinnerungsläufe
 
 Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten. Für extra gebuchte Läufe werden die Kosten je nach Gruppengröße und Länge des Laufes individuell festgelegt. 
+
+## Bericht über den Frauentagslauf 2026 - in Erinnerung an Alice Salomon
+
+https://news.germanroadraces.de/wir-alle-die-wir-an-eine-deutsche-demokratie-glaubten-machten-uns-der-blindheit-schuldig-wir-sahen-nicht-die-verraeter-in-unserer-mitte-8-frauentagslauf-fuer-alle-geschlechter/
 
 ## Bericht über den Erinnerungslauf im Nollendorf-Kiez am 9. November 2025
 
@@ -89,15 +93,6 @@ https://news.germanroadraces.de/?p=233747
 ## Bericht über den Frauentagslauf 2024 - in Erinnerung an Charlotte Salomon
 
 https://news.germanroadraces.de/?p=229313
-
-## Stimmen von Teilnehmer:innen zum Erinnerungslauf am Karfreitag 2023
-
-Das ist wahnsinnige Herzenskompetenz gepaart mit Köpfchen. - Marita Warner
-
-Danke für den schönen Lauf. Wirklich wieder ein absolutes Erlebnis mitten in der Welt, die wir eigentlich schon kennen. - Lilli E.
-
-Was ich besonders toll fand, war, dass du Bilder von den Akteur:innen hattest, die Geschichte geschrieben haben! Zusammen mit den Bildern und dem Stehen an ihren Gräbern hatte ich das Gefühl, ihnen ganz nah sein zu können. So sollte Geschichtsunterricht sein. Eine richtige Zeitreise! Super schön und eindrücklich, viele waren so jung als sie starben... Günter Litfin war 24 als er starb, ein Jahr älter als ich... Cato Bontjes van Beek war 23 bei der Hinrichtung... es ist kaum vorstellbar! So alt, wie ich!! Sehr beeindruckend, diese Menschen... ich frage mich immer, ob ich auch so mutig gewesen wäre... und den Tod riskiert hätte! Umso schöner, diese außergewöhnlichen Menschen zu ehren und alles dafür zu tun, dass wir aus der Geschichte lernen! - Maxi Birkhold
-
 
 
 ![erdmutenieke](/Hannah.jpg)
