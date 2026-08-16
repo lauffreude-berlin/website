@@ -28,7 +28,7 @@ weight: 10
 
 * Kinder-Entspannungstrainerin, Qualifikationslevel 2 (Weiterbildung 2024 Akademie für Sport und Gesundheit)
 
-* regelmäßige Teilnahme an der Ersten-Hilfe-Ausbildung für Ersthelfende (zuletzt August 2024)
+* regelmäßige Teilnahme an der Ersten-Hilfe-Ausbildung für Ersthelfende (zuletzt August 2026)
 
 
 

@@ -55,6 +55,8 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 * __Und meine Thränen liess ich in Berlin.__ Else Lasker-Schüler, 1933 __Jüdisch-queere Geschichten im Nollendorf-Kiez__
 
+* __Jüdische Schicksale zwischen Tegeler Fließ und Nordgraben__ in Berlin-Reinickendorf
+
 * __Moses Mendelssohn__ Stadtlauf zu Erinnerungsorten zwischen Kreuzberg und Mitte
 
 * __17. Juni 1953__ Erinnerungen an den Volksaufstand in der DDR auf historischen Demonstationsstrecken
@@ -64,7 +66,7 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 ## Feste Termine für Erinnerungsläufe
 
-Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Sonntag, 8. März 2026 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Samstag, 7. November 2026 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
 ## Kosten Erinnerungsläufe
 
