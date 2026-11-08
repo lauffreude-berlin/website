@@ -66,11 +66,16 @@ Die Liste der möglichen Themen wird laufend erweitert.
 
 ## Feste Termine für Erinnerungsläufe
 
-Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Samstag, 7. November 2026 um 9.30 Uhr statt. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
+Am 8. März (in Berlin ein gesetzlicher Feiertag) und am 9. November biete ich zu festen Terminen Erinnerungsläufe an. Der nächste Erinnerungslauf findet am Montag, 8. März 2027 statt. Wir werden Regina Jonas (1902-1944), die erste Rabbinerin, kennenlernen. Weitere Infomationen hier: [Aktuelle Termine]({{< ref "Aktuelle Termine.md" >}})
 
 ## Kosten Erinnerungsläufe
 
 Zu den Terminen am 8. März und am 9. November wird eine Spende erbeten. Für extra gebuchte Läufe werden die Kosten je nach Gruppengröße und Länge des Laufes individuell festgelegt. 
+
+## Bericht über den Erinnerungslauf durch Reinickendorf zum 9. November 1938 am 7. November 2026
+
+https://news.germanroadraces.de/gerade-jetzt-impressionen-vom-erinnerungslauf-im-gedenken-an-die-reichspogromnacht-vom-9-november-1938-am-7-november-2026-von-dr-erdmute-nieke/
+
 
 ## Bericht über den Frauentagslauf 2026 - in Erinnerung an Alice Salomon
 

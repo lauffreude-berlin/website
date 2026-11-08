@@ -14,7 +14,7 @@ __Verschenken Sie Bewegung!__
 
 Ostern, Weihnachten, Chanukka, Ramadanfest, Geburtstag, Hochzeitstag, Frauentag, Beginn des Ruhestandes - Anlässe gibt es viele!
 
-Schenken Sie Ihren Freund:innen ein Angebot der Lauffreude Berlin!
+Schenken Sie Ihren Freund:innen ein Angebot der LaufFREUDE Berlin!
 
 Schenken Sie FREUDE!
 
